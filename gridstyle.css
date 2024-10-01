@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    height: 100vh;
+    width: 100vw;
+    background-image: url('paint1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/*Header*/
+/*navbarlogo*/
+.navbarlogo{
+    display: grid;
+    position: relative;
+    grid-template-columns: 3fr 1fr;
+    justify-items: center;
+    align-items: center;
+}
+.logo{
+    height: 50%;
+    width: 15%;
+    position: absolute;
+    left: 150px;
+}
+.headerbox {
+    display: grid;
+    grid-template-columns: 2fr 3fr;
+    width: 100%;
+    height: auto;
+    border-bottom: 1px solid gray;
+    background-color: white;
+}
+/*navbar*/
+a {
+    text-decoration: none;
+    color: gray;
+}
+.navbar{
+    display: grid
+}
+header ul {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    align-items: center;
+
+}
+header li {
+    list-style-type: none;
+    font-size: 25px;
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header li:nth-child(1){
+    text-align: center;
+}
+header li:nth-last-child(2){
+    text-align: center;
+}
+header li:nth-last-child(1){
+    border: 2px solid gray;
+    padding: 20px 0;
+    border-radius: 50px;
+    text-align: center;
+    font-weight: 600;
+    width: auto;
+}
+/*main*/
+/*topbox*/
+.top-box{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    width: 100vw;
+    height: 40vh;
+    align-items: center;
+    background-image: url('topimg.jpg');
+}
+p,h1{
+    padding-left: 160px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    width: 1000px;
+    height: auto;
+}
+.text{
+    width: 50%;
+    height: 50%;
+    text-align: start;
+    font-size: ;
+}
+.text h1{
+    font-size: 50px;
+}
+/*botbox*/
+.bot-box{
+    height: 60vh;
+    width: 80vw;
+    align-content: start;
+    margin-left: 150px;
+    display: grid;
+}
+/*botboxnavbar*/
+.topnavbar{
+    display: grid;
+    margin-top: 40px;
+}
+.topnavbar ul{
+    list-style-type: none;
+    display: grid;
+    grid-template-columns: repeat(14, 1fr);
+    margin-bottom: 50px;
+    margin-left: 10px;
+    text-align: center;
+}
+.topnavbar ul li{
+    color: gray;
+    font-size: 25px;
+    padding-left: 5px;
+}
+.topnavbar ul li:nth-child(1){
+    border: 2px solid gray;
+    text-align: center;
+    border-radius: 20px;
+}
+/*botboxcontainer*/
+.box-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    gap: 10px;
+}
+.box{
+    color: white;
+    font-size: 2rem;
+    padding: 0.5rem;
+    object-fit: fill;
+}
