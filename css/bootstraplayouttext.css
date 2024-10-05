@@ -1,0 +1,15 @@
+.bg-image {
+    background-image: '/img/backgroundpic.png'; /* Replace with your actual image */
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    position: relative;
+  }
+  .overlay-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+  }

@@ -1,0 +1,54 @@
+.bg-image {
+    background-image: url('/img/backgroundpic.png');
+    background-size: cover;
+    background-position: center;
+    height: 700px;
+    position: relative;
+    color: white;
+  }
+  .overlay-text {
+    position: absolute;
+    top: 25%;
+    left: 5%;
+    width: 100%;
+    max-width: 800px;
+    
+  }
+.input-group {
+  width: 75%;
+}
+
+.container-custom img{
+  width: 73px;
+  height: 73px;
+}
+.custom-section{
+  background-color: #f14b3d;
+}
+.card-body {
+  padding: 20px;
+}
+.btn-custom {
+  background-color: #ff4d4d;
+  color: #fff;
+  border: none;
+}
+.btn-custom:hover {
+  background-color: #e43c3c;
+}
+.card-img {
+  max-height: 300px;
+  object-fit: cover;
+}
+.footer {
+  background-color: #ff4d4d;
+  padding: 40px 0;
+  color: #fff;
+}
+.footer a {
+  color: #ebebeb;
+  text-decoration: none;
+}
+.footer ul li{
+  margin-bottom:30px;
+}
