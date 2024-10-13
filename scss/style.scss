@@ -1,0 +1,100 @@
+
+//variables//
+@import 'var';
+//reset//
+@import 'reset';
+//mixins//
+@import 'mixins/body';
+
+body {
+    background: $background-gradient;
+    display: flex;
+    @include center;
+
+}
+.login-container{
+    background-color: white;
+    width: 500px;
+    height: 700px;
+    margin-top: 100px;
+    padding: 50px;
+    border-radius: 10px;
+    @include center;
+
+    h2{
+        font-size: $fontbig;
+        font-family: $fontfamily;
+        font-weight: map-get($fontweight, vbold);
+        text-align: center;
+        margin-bottom: 40px;
+    }
+    form{
+        font-family: $fontfamily;
+        font-size: $fontmed;
+        color: $grayish;
+        .input-box{
+            input{
+                width: 100%;
+                padding: 10px;
+                border: none;
+                border-bottom: 1px solid gray;
+                margin: 10px 0;
+            }
+        }
+        a{
+            font-size: $fontsmall;
+            text-align: right;
+            display: block;
+            margin: 0 0 30px 0;
+            text-decoration: none;
+            color: $grayish;
+        }
+        .login-button{
+            display: block;
+            text-align: center;
+            width: 100%;
+            padding: 10px;
+            border-radius: 20px;
+            background: $background-gradient;
+            color: white;
+            font-weight: map-get($fontweight, vbold);
+        }
+    }
+    .signup-using-top{
+        @include signup;
+        margin-top: 50px
+    }
+    .signup-using-bot{
+        @include signup;
+        margin-top: 90px;
+    }
+    .social-media{
+        text-align: center;
+        margin-top: 15px;
+    }
+    .signup{
+        text-align: center;
+        margin-top: 20px;
+        a {
+            text-decoration: none;
+            color: $grayish;
+            font-size: $fontsmall;
+            font-family: $fontfamily;
+            font-weight: map-get($fontweight, vbold );
+        }
+    }
+    @include responsive($breakpointmob){
+        .login-container{
+            max-width: 400px;
+        }
+        h2{
+            font-size: $fontmed;
+            font-weight: map-get($fontweight, bold );
+        }
+        form .login-button{
+            width: 50%;
+            text-align: center;
+            margin: 0 auto;
+        }
+    }
+}

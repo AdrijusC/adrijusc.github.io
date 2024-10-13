@@ -1,0 +1,17 @@
+@mixin center {
+    justify-content: center;
+    align-items: center;
+}
+@mixin signup{
+    text-align: center;
+    color: $grayish;
+    font-family: $fontfamily;
+    font-size: $fontsmall;
+    font-weight: map-get($fontweight, medium );
+    margin-top: 15px;
+}
+@mixin responsive($breakpoint) {
+    @media (max-width: $breakpoint) {
+      @content;
+    }
+}
