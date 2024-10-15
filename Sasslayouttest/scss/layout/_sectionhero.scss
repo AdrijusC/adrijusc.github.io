@@ -1,0 +1,83 @@
+.hero {
+    margin-top: 70px;
+    .container{
+        display: flex;
+        position: relative;
+        .hero_text{
+            @include flexy;
+            min-width: 500px;
+            padding-top: 50px;
+            h1{
+                width: 95%;
+                color: $standblack;
+                font:{
+                    size:65px;
+                    weight: 500;
+                }
+            }
+            p{
+                width: 55%;
+                color: $creamy;
+                margin: 25px 0;
+            }
+            a{
+                display: inline-block;
+                text-decoration: none;
+                color:$standblack;
+                padding: 15px 25px;
+                background-color: #96C67F;
+                border-radius: 5px;
+                margin-top: 15px;
+            }
+        }
+        .hero_pic {
+            @include flexy;
+            min-width: 500px;
+            .hero_position{
+                background-image: url('/img/hero.jfif');
+                position: relative;
+                width: 600px;
+                height: 600px;
+                background:{
+                    size: cover;
+                    position: center;
+                    repeat: no-repeat;
+                }
+                border-radius: 50%;
+            }
+            .hero_pic_about{
+                position: absolute;
+                bottom:0px;
+                left: 50px;
+                padding: 30px;
+                background-color: white;
+                border-radius: 20px;
+            }
+            .hero_arrowright{
+                position: absolute;
+                bottom: 45%;
+                right: -30px;
+                background-color: $arrowcolor;
+                padding: 25px;
+                height: 100px;
+                width: 100px;
+                border-radius: 50%;
+                .hero_arrowtriangle{
+                    width: 0;
+                    height: 0;
+                    border-left: 25px solid transparent;
+                    border-right: 25px solid transparent;
+                    border-top: 50px solid white;
+                    transform: rotate(270deg);
+                    margin-left: 7px;
+                }
+            }
+            img{
+                width: 600px;
+                height: 600px;
+                object-fit: cover;
+                border-radius: 50%;
+            }
+        }
+    }
+}

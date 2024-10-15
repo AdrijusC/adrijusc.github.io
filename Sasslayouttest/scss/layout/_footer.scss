@@ -1,0 +1,39 @@
+.footer {
+    margin: 75px 0;
+    .container{
+        text-align: center;
+        .footer_career{
+            margin: 40px 0;
+            color: $standblack;
+            p{
+                margin-bottom: 20px;
+            }
+            h2{
+                font-size: 35px;
+            }
+        }
+        .card_list{
+            display: flex;
+            gap: 50px;
+            overflow-x: auto;
+            .card_item{
+                background-color: white;
+                border-radius: 25px;
+                text-align: start;
+                padding-bottom: 25px;
+                h6{
+                    margin-left: 20px;
+                    font-size: 20px;
+                    color: $standblack;
+                }
+                p{
+                    margin-left: 20px;
+                    color: $creamy;
+                }
+            }
+            .card_img{
+                height: 450px;
+            }
+        }
+    }
+}

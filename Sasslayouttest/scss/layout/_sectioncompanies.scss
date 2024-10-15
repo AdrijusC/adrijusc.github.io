@@ -1,0 +1,18 @@
+.globalcompanies{
+    .container{
+        text-align: center;
+        margin-top: 100px;
+        p{
+            color: $standblack;
+            font-size: 20px;
+        }
+        .company_logo{
+            @include flex-center;
+            margin: 0 auto;
+            width: 50%;
+            img{
+                margin: 20px 50px;
+            }
+        }
+    }
+}

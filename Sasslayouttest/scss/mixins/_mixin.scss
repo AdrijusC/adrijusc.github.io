@@ -1,0 +1,14 @@
+@mixin flex-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@mixin standard {
+    background-color: $mainbgclr;
+    font-family: $mainfont;
+}
+@mixin flexy{
+    flex-grow: 1;
+    width: 50%;
+}
