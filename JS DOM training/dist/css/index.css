@@ -1,0 +1,35 @@
+.gallery-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding: 10px;
+  width: 80%;
+  justify-content: center;
+  margin: auto;
+}
+
+.gallery-grid img {
+  width: 250px;
+  height: 250px;
+  cursor: pointer;
+}
+
+.gallery-grid .enlarged {
+  transform: scale(2);
+  z-index: 2;
+}
+
+button {
+  padding: 10px 20px;
+  cursor: pointer;
+  background: #007BFF;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  transition: background 0.3s ease;
+}
+
+.controls {
+  display: flex;
+  justify-content: center;
+}/*# sourceMappingURL=index.css.map */
