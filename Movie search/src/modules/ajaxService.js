@@ -1,5 +1,5 @@
 const apiKey = "7863be49";
-const baseUrl = "http://www.omdbapi.com/";
+const baseUrl = "https://www.omdbapi.com/";
 
 export const searchMovies = (term) => {
   const url = `${baseUrl}?apikey=${apiKey}&s=${term}`;
