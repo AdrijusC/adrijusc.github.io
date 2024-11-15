@@ -1,4 +1,4 @@
-import random
+""" import random
 
 def classic():
 
@@ -30,9 +30,9 @@ def classic():
             print("Bye bye")
             break
 
-classic()
+classic() """
 
-""" import random
+import random
 
 def rocks():
     
@@ -55,7 +55,7 @@ def rocks():
         
         rocks -= user_choice
         if rocks == 0:
-            print("You lose")
+            print("You lose. Praise the machine God")
             break
 
         computer_choice = min(random.randint(1, 3), rocks)
@@ -63,8 +63,8 @@ def rocks():
         rocks -= computer_choice
 
         if rocks == 0:
-            print("You win")
+            print("You win. Our machine overlords will not be pleased.")
             break
 
 
-rocks() """
+rocks()
