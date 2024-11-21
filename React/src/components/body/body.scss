@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    display: flex;
+}
+.Read-more{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-color: rgb(32, 30, 165);
+    width: 70%;
+    height: 950px;
+    .Info{
+        width: 50%;
+        text-align: left;
+        align-content: center;
+    }
+    .company-name{
+        color: white;
+    }
+    .about-info{
+        color: white;
+        margin: 15px 0;
+    }
+    .read-more-btn{
+        padding: 10px 30px;
+        border-radius: 25px;
+        border: none;
+        background-color: rgb(38, 89, 230);
+        color: white;
+    }
+}
+.Login-form{
+    background-color: white;
+    height: 950px;
+    width: 40%;
+    align-content: center;
+}
+.form-box{
+
+width: 50%;
+display: inline-block;
+    .greeting{
+        text-align: left;
+        margin-bottom: 5px;
+
+    }
+    .welcome-back{
+        text-align: left;
+        margin-bottom: 25px;
+    }
+    input{
+        display: block;
+        margin: 10px 0;
+        padding: 15px;
+        border-radius: 25px;
+        border: 1px solid rgb(199, 182, 182);
+        width: 100%;
+    }
+    .forgot{
+        margin-top: 10px;
+    }
+    button{
+        width: 100%;
+        padding: 15px;
+        border-radius: 25px;
+        border: none;
+        background-color: rgb(38, 89, 230);
+        color: white;
+    }
+}

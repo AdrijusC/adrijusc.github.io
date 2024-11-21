@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Meal Search App</title>
+  <link rel="stylesheet" href="/public/css/style.css">
+</head>
+<body>
+  <header>
+    <h1>Meal Search App</h1>
+    <nav>
+      <input type="text" id="mealSearch" placeholder="Search meals...">
+      <button id="searchButton">Search</button>
+      <button id="randomButton">Random Meal</button>
+    </nav>
+  </header>
+  <main>
+    <section id="categories">
+      <h2>Categories</h2>
+      <div id="categoryList"></div>
+    </section>
+    <section id="results">
+      <h2>Search Results</h2>
+      <div id="resultList"></div>
+    </section>
+    <section id="mealDetails" class="hidden">
+      <h2>Meal Details</h2>
+      <div id="mealDetailContent"></div>
+    </section>
+  </main>
+  <footer>
+    <p>© 2024 Meal Search App</p>
+  </footer>
+  <script src="/public/js/app.js"></script>
+</body>
+</html>
