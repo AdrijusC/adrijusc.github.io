@@ -316,7 +316,7 @@ body {
 .custom-section .image-placeholder {
   height: 100%;
   width: 100%;
-  background-image: url("/img/pancakes.PNG");
+  background-image: url("img/pancakes.PNG");
   background-size: cover;
   background-position: center top;
   background-repeat: no-repeat;
@@ -574,7 +574,7 @@ header .nav-icons .first-icon-box {
 header .nav-icons .first-icon-box .first-icon {
   width: 60%;
   height: 60%;
-  background-image: url("/img/search.png");
+  background-image: url("img/search.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
