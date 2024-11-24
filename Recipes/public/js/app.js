@@ -179,7 +179,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extr
 /******/ 		// [resolve, reject, Promise] = chunk loading, 0 = chunk loaded
 /******/ 		var installedChunks = {
 /******/ 			"/js/app": 0,
-/******/ 			"public/css/style": 0
+/******/ 			"css/style": 0
 /******/ 		};
 /******/ 		
 /******/ 		// no chunk on demand loading
@@ -229,8 +229,8 @@ eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extr
 /******/ 	// startup
 /******/ 	// Load entry module and return exports
 /******/ 	// This entry module depends on other loaded chunks and execution need to be delayed
-/******/ 	__webpack_require__.O(undefined, ["public/css/style"], () => (__webpack_require__("./src/js/app.js")))
-/******/ 	var __webpack_exports__ = __webpack_require__.O(undefined, ["public/css/style"], () => (__webpack_require__("./src/scss/style.scss")))
+/******/ 	__webpack_require__.O(undefined, ["css/style"], () => (__webpack_require__("./src/js/app.js")))
+/******/ 	var __webpack_exports__ = __webpack_require__.O(undefined, ["css/style"], () => (__webpack_require__("./src/scss/style.scss")))
 /******/ 	__webpack_exports__ = __webpack_require__.O(__webpack_exports__);
 /******/ 	
 /******/ })()
