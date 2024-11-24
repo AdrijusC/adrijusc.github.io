@@ -1,8 +1,7 @@
-
 const mix = require('laravel-mix');
 
-mix.js('src/js/index.js', 'public/js/app.js') 
-   .sass('src/scss/style.scss', 'css/style.css')
+mix.js('src/js/app.js', 'public/js')
+.sass('src/scss/style.scss', 'css')
    .setPublicPath('public')
    .options({
        processCssUrls: false,
@@ -10,4 +9,8 @@ mix.js('src/js/index.js', 'public/js/app.js')
 
 if (!mix.inProduction()) {
     mix.sourceMaps();
+}
+
+if (mix.inProduction()) {
+    mix.version();
 }

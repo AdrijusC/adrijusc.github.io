@@ -3,3 +3,783 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+body {
+  font-family: Inter, Times, serif, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 0;
+}
+header .logo-placeholder {
+  width: 200px;
+  height: 30px;
+  align-content: center;
+}
+header .logo-placeholder .logo {
+  background-image: url("/img/Logo1.JPG");
+  width: 60%;
+  height: 60%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+header nav {
+  display: flex;
+  gap: 20px;
+  margin: 20px 0;
+}
+header nav li {
+  display: flex;
+  gap: 20px;
+}
+header nav a {
+  text-decoration: none;
+  color: #333;
+}
+header .nav-icons {
+  display: flex;
+}
+header .nav-icons .first-icon-box {
+  height: 30px;
+  width: 30px;
+  align-content: center;
+}
+header .nav-icons .first-icon-box .first-icon {
+  width: 60%;
+  height: 60%;
+  background-image: url("/img/search.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+header .nav-icons .second-icon-box {
+  height: 30px;
+  width: 30px;
+  align-content: center;
+}
+header .nav-icons .second-icon-box .second-icon {
+  width: 60%;
+  height: 60%;
+  background-image: url("/img/profile.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.hero {
+  display: flex;
+  margin-top: 20px;
+}
+.hero .hero-content {
+  flex: 1;
+}
+.hero .hero-content h1 {
+  margin-bottom: 10px;
+  font-weight: 700;
+  font-size: 64px;
+  width: 80%;
+}
+.hero .hero-content p {
+  color: #7F7D7D;
+  width: 60%;
+  font-size: 16px;
+}
+.hero .hero-content button {
+  margin-top: 40px;
+  background-color: #F79F1A;
+  border: none;
+  border-radius: 20px;
+  font-weight: 300;
+  font-size: 20px;
+  color: #fff;
+  padding: 20px 35px;
+  cursor: pointer;
+  width: 220px;
+  height: auto;
+  text-align: center;
+}
+.hero .hero-content .gold-words {
+  color: #F79F1A;
+}
+.hero .hero-box {
+  flex: 1;
+}
+.hero .hero-image {
+  position: relative;
+  height: 500px;
+  width: 600px;
+  overflow: hidden;
+}
+.hero .hero-image::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url("/img/food.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  transform: rotate(340deg);
+  z-index: -1;
+}
+.hero .hero-image .hero-overlay-second {
+  display: flex;
+  flex-direction: column; /* Stack ins-second and profile vertically */
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  bottom: 120px;
+  left: 320px;
+  background-color: white;
+  border-radius: 10px;
+  width: 200px;
+  height: 180px;
+}
+.hero .hero-image .hero-overlay-second .stars {
+  color: #F79F1A;
+  margin: 10px 0 10px 10px;
+}
+.hero .hero-image .hero-overlay-second .ins-second {
+  background-color: #F1F3F7;
+  width: 90%;
+  height: 90%;
+  border-radius: 25px;
+  margin-bottom: 10px;
+  margin-top: 5px;
+}
+.hero .hero-image .hero-overlay-second .ins-second p {
+  font-size: 16px;
+  text-align: left;
+  margin-left: 13px;
+}
+.hero .hero-image .hero-overlay-second .profile {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  align-content: start;
+  margin: 5px;
+}
+.hero .hero-image .hero-overlay-second .profile .prof-pic {
+  width: 30px;
+  height: 30px;
+  background-color: #ccc; /* Placeholder for profile picture */
+  border-radius: 50%; /* Make it circular */
+  background-image: url("/img/secondprof.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.hero .hero-image .hero-overlay-second .profile p {
+  font-size: 14px;
+  margin: 0; /* Remove default margin */
+}
+.hero .hero-image .hero-overlay-second .profile .like {
+  width: 20px;
+  height: 20px; /* Placeholder for like button */
+  border-radius: 50%; /* Make it circular */
+  background-image: url("/img/heart.png");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-left: 50px;
+}
+.hero .hero-image .hero-overlay-first {
+  display: flex;
+  flex-direction: column; /* Stack children vertically */
+  justify-content: center; /* Center children vertically in the container */
+  align-items: center; /* Center children horizontally */
+  position: absolute;
+  bottom: 40px;
+  left: 20px;
+  width: 200px;
+  height: 180px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 10px;
+}
+.hero .hero-image .hero-overlay-first .ins-first {
+  background-color: #F1F3F7;
+  width: 90%;
+  height: 90%;
+  border-radius: 25px;
+  margin: 5px 0 10px; /* Space between ins-first and profile */
+  padding: 10px;
+}
+.hero .hero-image .hero-overlay-first .ins-first p {
+  font-size: 16px;
+  text-align: left;
+}
+.hero .hero-image .hero-overlay-first .stars {
+  color: #F79F1A;
+  margin: 10px 0; /* Simplified margin */
+}
+.hero .hero-image .hero-overlay-first .profile {
+  display: flex;
+  flex-direction: row; /* Keep profile elements in a row */
+  align-items: center; /* Vertically align profile items */
+  gap: 10px; /* Add space between profile elements */
+}
+.hero .hero-image .hero-overlay-first .profile .prof-pic {
+  width: 30px;
+  height: 30px;
+  background-color: #ccc; /* Placeholder for profile picture */
+  border-radius: 50%;
+  background-image: url("/img/firstprof.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.hero .hero-image .hero-overlay-first .profile p {
+  font-size: 14px;
+  margin: 0; /* Remove default margins */
+}
+.hero .hero-image .hero-overlay-first .profile .like {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-image: url("/img/heart.png");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-left: 50px;
+}
+
+.main {
+  width: 80%;
+  display: flex;
+  flex-direction: column; /* Stack main sections vertically */
+  margin-bottom: 25px;
+}
+.main .top-row {
+  display: flex;
+  justify-content: space-between; /* Push button to the far right */
+  align-items: center;
+}
+.main .top-row .discover-more {
+  width: 50%;
+}
+.main .top-row .discover-more h1 {
+  font-weight: 600;
+  font-size: 46px;
+}
+.main .top-row .discover-more p {
+  color: #7F7D7D;
+  font-weight: 300;
+  font-size: 24px;
+}
+.main .top-row button {
+  background-color: #F79F1A;
+  color: #fff;
+  padding: 15px;
+  border-radius: 20px;
+  border: none;
+  width: 150px;
+  font-size: 20px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.main .input-row {
+  display: flex; /* Align input and button on the same line */
+  justify-content: center; /* Center them horizontally */
+  align-items: center; /* Align them vertically */
+  gap: 10px; /* Add spacing between the input and button */
+  margin: 20px 0; /* Add spacing above and below the input row */
+}
+.main .input-row #recipe-input {
+  height: 50px;
+  text-align: center;
+  width: 75%; /* Adjust input width */
+}
+.main .input-row .recipe-button {
+  color: white;
+  background-color: #F79F1A;
+  border: none;
+  border-radius: 5px;
+  width: 15%; /* Adjust button width */
+  height: 50px;
+  cursor: pointer; /* Add pointer cursor for better UX */
+}
+.main .recipe-display {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+.main .meal-card {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.main .meal-image img {
+  width: 100%;
+  height: auto;
+}
+.main .meal-info {
+  padding: 1rem;
+  text-align: center;
+}
+.main .meal-info h3 {
+  margin-bottom: 0.5rem;
+}
+.main .meal-info button {
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  background: #ff7043;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.main .meal-info button:hover {
+  background: #ff5722;
+}
+.main .meal-details {
+  display: flex;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+.main .meal-details-image img {
+  max-width: 100%;
+  border-radius: 10px;
+}
+.main .meal-details-info {
+  max-width: 600px;
+}
+.main .recipe-display {
+  margin-top: 20px;
+  background-color: #ddd;
+  width: 100%;
+  height: 500px;
+}
+
+.custom-section {
+  display: flex;
+  position: relative;
+  width: 80%;
+  height: 450px;
+}
+.custom-section .image-placeholder {
+  height: 100%; /* Full height of the container */
+  width: 100%; /* Full width of the container */
+  background-image: url("/img/pancakes.PNG"); /* Path to your image */
+  background-size: cover; /* Ensures the image fills the div */
+  background-position: center top; /* Centers the image in the div */
+  background-repeat: no-repeat; /* Prevents the image from repeating */
+  transform: rotate(180deg); /* Rotates the entire div (and image) */
+  transform-origin: center; /* Ensures the rotation happens around the center */
+  position: absolute; /* Ensures it's behind other elements */
+  z-index: 1; /* Lower z-index to place it behind the side-divs */
+}
+.custom-section .side-div {
+  position: absolute; /* Positioned relative to the .custom-section */
+  display: flex;
+  background-color: white;
+  z-index: 2; /* Higher z-index to appear in front of the image */
+  justify-content: center;
+  align-items: center;
+}
+.custom-section .side-div-left {
+  width: 200px;
+  height: 60px;
+  left: 60px; /* Position to the left of the section */
+  bottom: 80px; /* Vertically centered */
+  transform: translateY(-50%);
+  color: #046E1B;
+}
+.custom-section .side-div-left .ins-left {
+  align-content: center;
+  justify-content: center;
+  margin-left: 10px;
+}
+.custom-section .side-div-left .ins-left p {
+  font-size: 15px;
+  font-weight: 500;
+}
+.custom-section .side-div-right {
+  border-radius: 15px;
+  width: 400px;
+  height: 300px;
+  right: 80px; /* Position to the right of the section */
+  top: 220px; /* Vertically centered */
+  transform: translateY(-50%);
+}
+.custom-section .side-div .ins-right {
+  width: 85%;
+  height: 85%;
+}
+.custom-section .side-div .ins-right h1 {
+  font-weight: 600;
+  font-size: 46px;
+}
+.custom-section .side-div .ins-right p {
+  font-size: 20px;
+  margin: 15px 0;
+}
+.custom-section .side-div .ins-right button {
+  padding: 15px;
+  width: 150px;
+  border-radius: 15px;
+  border: none;
+  background-color: #F79F1A;
+  color: #FFFFFF;
+  font-weight: 600;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.card-section {
+  margin-top: 100px;
+}
+.card-section h1 {
+  text-align: center;
+  font-weight: 600;
+  font-size: 46px;
+}
+.card-section .cards {
+  margin-top: 50px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 50px;
+}
+.card-section .cards .card {
+  background-color: #fff;
+  border: none;
+  padding: 10px;
+  height: 550px;
+  align-content: center;
+}
+.card-section .cards .card .card-top {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.card-section .cards .card .card1pic {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background-image: url("/img/Card1.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.card-section .cards .card .card2pic {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background-image: url("/img/Card2.png");
+  background-size: cover;
+  background-position: bottom;
+  background-repeat: no-repeat;
+}
+.card-section .cards .card .card3pic {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background-image: url("/img/Card3.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.card-section .cards .card .card4pic {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background-image: url("/img/Card4.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.card-section .cards .card .cardname {
+  margin-left: 20px;
+}
+.card-section .cards .card .cardname h3 {
+  font-size: 24px;
+  font-weight: 600;
+}
+.card-section .cards .card .cardmid p {
+  font-size: 16px;
+  font-weight: 300;
+}
+.card-section .cards .card .imgbox {
+  height: 300px;
+  width: 100%;
+}
+.card-section .cards .card .card1img {
+  width: 100%;
+  height: 300px;
+  background-image: url("/img/img1card.png");
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+  margin: 10px 0;
+  border-radius: 20px;
+}
+.card-section .cards .card .card2img {
+  width: 100%;
+  height: 300px;
+  background-image: url("/img/img2card.png");
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  margin: 10px 0;
+  border-radius: 20px;
+}
+.card-section .cards .card .card3img {
+  width: 100%;
+  height: 300px;
+  background-image: url("/img/img3card.png");
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  margin: 10px 0;
+  border-radius: 20px;
+}
+.card-section .cards .card .card4img {
+  width: 100%;
+  height: 300px;
+  background-image: url("/img/img4card.png");
+  background-size: cover;
+  background-position: 60% 40%;
+  background-repeat: no-repeat;
+  margin: 10px 0;
+  border-radius: 20px;
+}
+.card-section .cards .card .cardbot {
+  display: flex;
+  margin-top: 10px;
+  align-content: center;
+}
+.card-section .cards .card .cardbot .likebtn {
+  height: 25px;
+  width: 25px;
+  background-image: url("/img/Thumbsup.png");
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+  cursor: pointer;
+}
+.card-section .cards .card .cardbot .sharebtn {
+  height: 25px;
+  width: 25px;
+  background-image: url("/img/Share.png");
+  background-size: contain;
+  background-position: center top;
+  background-repeat: no-repeat;
+  cursor: pointer;
+}
+.card-section .cards .card .cardbot span {
+  font-size: 20px;
+  margin: 0 10px;
+}
+.card-section .cards .card .stars {
+  color: #F79F1A;
+}
+
+.cta-section {
+  display: flex;
+  gap: 20px;
+  width: 75%;
+  height: 400px;
+  background-color: #046E1B;
+  border-radius: 25px;
+  color: white;
+  min-width: 1200px;
+}
+.cta-section .add-buttons {
+  display: flex;
+  gap: 20px; /* Space between the buttons */
+  margin-top: 50px;
+}
+.cta-section .add-buttons .left-download-first {
+  font-size: 10px;
+}
+.cta-section .add-buttons .left-download-second {
+  font-size: 20px;
+}
+.cta-section .add-buttons .right-get {
+  font-size: 10px;
+}
+.cta-section .add-buttons .right-google {
+  font-size: 20px;
+}
+.cta-section .add-btn {
+  display: flex; /* Flexbox to align logo and text */
+  align-items: center; /* Vertically center logo and text */
+  gap: 10px; /* Space between logo and text */
+  width: 200px; /* Set equal width for both buttons */
+  height: 60px; /* Set equal height for both buttons */
+  padding: 0 20px; /* Padding inside buttons */
+  border-radius: 10px;
+  background-color: #F79F1A;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+}
+.cta-section .add-btn div {
+  display: flex;
+  flex-direction: column; /* Align text lines vertically */
+  justify-content: center; /* Vertically align text within its container */
+}
+.cta-section .add-btn p {
+  margin: 0; /* Remove default paragraph margins */
+  font-size: 14px; /* Adjust text size */
+  line-height: 1.2; /* Adjust line spacing */
+  text-align: left; /* Align text to the left for consistency */
+}
+.cta-section .add-btn .apple-logo,
+.cta-section .add-btn .store-logo {
+  width: 25px;
+  height: 25px;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.cta-section .add-btn .apple-logo {
+  background-image: url("/img/Apple logo.png");
+}
+.cta-section .add-btn .store-logo {
+  background-image: url("/img/store logo.png");
+}
+.cta-section .add-div {
+  margin-top: 50px;
+  margin-left: 50px;
+}
+.cta-section .add-div h1 {
+  font-size: 46px;
+  font-weight: 600;
+  width: 800px;
+  z-index: 2;
+}
+.cta-section .image-box {
+  position: relative;
+  width: 500px;
+  height: 400px;
+  min-width: 300px;
+}
+.cta-section .image-placeholder {
+  z-index: 1;
+  position: absolute;
+  bottom: -40px;
+  right: 50px;
+  background-image: url("/img/phones.png");
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+  width: 400px;
+  height: 400px;
+}
+
+footer {
+  display: flex;
+  flex-direction: column; /* Stack the logo and footer-content vertically */
+  align-items: flex-start; /* Align logo and content to the left */
+  height: 500px;
+}
+footer .logo-placeholder {
+  height: 50px;
+  width: 200px;
+  background-image: url("/img/Logo.JPG");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-bottom: 20px; /* Add spacing below the logo */
+  margin-top: 50px;
+}
+footer .footer-content {
+  display: flex;
+  justify-content: space-between; /* Push left and right sections to the edges */
+  width: 100%; /* Make content span full width */
+}
+footer .footer-left {
+  display: flex; /* Align sections side by side */
+  gap: 200px; /* Increase spacing between sections */
+  align-items: flex-start; /* Align sections at the top */
+}
+footer .footer-left .footer-menu,
+footer .footer-left .footer-categories,
+footer .footer-left .footer-social {
+  font-weight: 500;
+  font-size: 16px;
+  display: flex;
+  flex-direction: column; /* Stack content vertically within each section */
+}
+footer .footer-left .footer-menu .greentext,
+footer .footer-left .footer-categories .greentext,
+footer .footer-left .footer-social .greentext {
+  color: #046E1B;
+}
+footer .footer-left .footer-menu ul,
+footer .footer-left .footer-categories ul,
+footer .footer-left .footer-social ul {
+  list-style: none; /* Remove dots in front of list items */
+  padding: 0; /* Remove default padding */
+  margin: 0; /* Remove default margin */
+}
+footer .footer-left .footer-menu h3,
+footer .footer-left .footer-menu h6,
+footer .footer-left .footer-categories h3,
+footer .footer-left .footer-categories h6,
+footer .footer-left .footer-social h3,
+footer .footer-left .footer-social h6 {
+  margin-bottom: 10px; /* Add spacing below headings */
+}
+footer .footer-left .footer-menu p,
+footer .footer-left .footer-categories p,
+footer .footer-left .footer-social p {
+  margin: 5px 0; /* Add spacing between items */
+}
+footer .footer-right {
+  display: flex;
+  flex-direction: column; /* Stack the heading and input-button row vertically */
+  align-items: flex-start; /* Align content to the left */
+  margin-right: 50px; /* Add spacing on the right */
+  width: 500px;
+  height: 100%;
+}
+footer .footer-right h4 {
+  margin-bottom: 10px;
+  font-size: 24px;
+  font-weight: 600;
+}
+footer .footer-right .input-button-row {
+  display: flex; /* Align input and button horizontally */
+  width: 100%; /* Ensure it spans the width of the container */
+  align-items: center; /* Align items vertically */
+  gap: 10px; /* Add spacing between input and button */
+}
+footer .footer-right .input-button-row input {
+  flex: 1; /* Allow the input to grow and fill available space */
+  padding: 5px;
+  margin: 0; /* Remove unnecessary margin */
+  border: none;
+  border-bottom: 1px solid #7F7D7D; /* Bottom border only */
+  font-size: 16px; /* Adjust text size */
+  outline: none; /* Remove focus outline */
+  margin-top: 50px;
+}
+footer .footer-right .input-button-row button {
+  font-weight: 600;
+  font-size: 20px;
+  background-color: #F79F1A;
+  color: #fff;
+  border: none;
+  padding: 15px;
+  width: 125px;
+  border-radius: 15px;
+  cursor: pointer; /* Add pointer cursor for better UX */
+}

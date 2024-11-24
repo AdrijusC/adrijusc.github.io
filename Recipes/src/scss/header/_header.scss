@@ -1,0 +1,96 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0;
+  
+    .logo-placeholder {
+      width: 200px;
+      height: 30px;
+      align-content: center;
+      .logo{
+          background-image: url('Recipes/img/Logo1.JPG');
+          width: 60%;
+          height: 60%;
+          background-size: cover;
+          background-position: center;
+          background-repeat: no-repeat;
+      }
+    }
+  
+    nav {
+      display: flex;
+      gap: 20px;
+      margin: 20px 0;
+      li{
+          display: flex;
+          gap: 20px;
+      }
+  
+      a {
+        text-decoration: none;
+        color: $dark-gray;
+      }
+    }
+  
+    .nav-icons {
+      display: flex;
+      .first-icon-box{
+          height: 30px;
+          width: 30px;
+          align-content: center;
+          .first-icon{
+              width: 60%;
+              height: 60%;
+              background-image: url('Recipes/img/search.png');
+              background-size: cover;
+              background-position: center;
+              background-repeat: no-repeat;
+          }
+      }
+      .second-icon-box{
+          height: 30px;
+          width: 30px;
+          align-content: center;
+          .second-icon{
+              width: 60%;
+              height: 60%;
+              background-image: url('Recipes/img/profile.png');
+              background-size: cover;
+              background-position: center;
+              background-repeat: no-repeat;
+          }
+      }
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .logo-placeholder {
+        margin-left: 80px;
+    }
+    .container {
+        flex-direction: column;
+        align-items: stretch;
+        padding: 10px;
+    }
+
+    .top-row {
+        display: flex;
+        margin-top: 50px;
+        .discover-more{
+            align-content: center;
+            width: 100%;
+        }
+    }
+
+    nav ul {
+        flex-direction: column;
+        text-align: center;
+        white-space: nowrap;
+    }
+
+    .nav-icons {
+        margin-top: 10px;
+        justify-content: center;
+    }
+}

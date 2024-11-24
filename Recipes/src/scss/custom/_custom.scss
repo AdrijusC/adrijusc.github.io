@@ -1,0 +1,96 @@
+.custom-section {
+    display: flex;
+    position: relative;
+    width: 80%;
+    height: 450px;
+  
+    .image-placeholder {
+      height: 100%;
+      width: 100%;
+      background-image: url('Recipes/img/pancakes.PNG');
+      background-size: cover;
+      background-position: center top;
+      background-repeat: no-repeat;
+      transform: rotate(180deg);
+      transform-origin: center;
+      position: absolute;
+      z-index: 1;
+    }
+  
+    .side-div {
+      position: absolute;
+      display: flex;
+      background-color: white;
+      z-index: 2;
+      justify-content: center;
+      align-items: center;
+
+      &-left {
+        width: 200px;
+        height: 60px;
+        left: 60px;
+        bottom: 80px;
+        transform: translateY(-50%);
+        color: #046E1B;
+
+        .ins-left{
+          align-content: center;
+          justify-content: center;
+          margin-left: 10px;
+          p{
+            font-size: 15px;
+            font-weight: 500;
+          }
+        }
+      }
+  
+      &-right {
+        border-radius: 15px;
+        width: 400px;
+        height: 300px;
+        right: 80px;
+        top: 220px;
+        transform: translateY(-50%);
+      }
+      .ins-right{
+        width: 85%;
+        height: 85%;
+        h1{
+          font-weight: 600;
+          font-size: 46px;
+        }
+        p{
+          font-size: 20px;
+          margin: 15px 0;
+        }
+        button{
+          padding: 15px;
+          width: 150px;
+          border-radius: 15px;
+          border: none;
+          background-color: $orange;
+          color: #FFFFFF;
+          font-weight: 600;
+          font-size: 20px;
+          cursor: pointer;
+        }
+      }
+    }
+    @media (max-width: 768px) {
+        .side-div-right{
+            font-size: 10px;
+            max-width: 200px;
+            max-height: 200px;
+            top: 150px;
+            left: 60px;
+            .ins-right {
+                h1{
+                    font-size: 10px;
+                }
+                p{
+                    font-size: 10px;
+                }
+            }
+        }
+    }
+  }

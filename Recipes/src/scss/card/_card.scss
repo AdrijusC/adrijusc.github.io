@@ -1,0 +1,167 @@
+.card-section {
+    margin-top: 100px;
+    h1 {
+      text-align: center;
+      font-weight: 600;
+      font-size: 46px;
+    }
+  
+    .cards {
+      margin-top: 50px;
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 50px;
+  
+      .card {
+        background-color: $white;
+        border: none;
+        padding: 10px;
+        height: 550px;
+        align-content: center;
+        .card-top{
+          display: flex;
+          align-items: center;
+          margin-bottom: 20px;
+        }
+        .card1pic{
+          height: 50px;
+          width: 50px;
+          border-radius: 50%;
+          background-image: url('Recipes/img/Card1.png');
+          background-size: cover;
+          background-position: center;
+          background-repeat: no-repeat;
+        }
+        .card2pic{
+          height: 50px;
+          width: 50px;
+          border-radius: 50%;
+          background-image: url('Recipes/img/Card2.png');
+          background-size: cover;
+          background-position:bottom;
+          background-repeat: no-repeat;
+        }
+        .card3pic{
+          height: 50px;
+          width: 50px;
+          border-radius: 50%;
+          background-image: url('Recipes/img/Card3.png');
+          background-size: cover;
+          background-position: center;
+          background-repeat: no-repeat;
+        }
+        .card4pic{
+          height: 50px;
+          width: 50px;
+          border-radius: 50%;
+          background-image: url('Recipes/img/Card4.png');
+          background-size: cover;
+          background-position: center;
+          background-repeat: no-repeat;
+        }
+        .cardname{
+          margin-left: 20px;
+          h3{
+            font-size: 24px;
+            font-weight: 600;
+          }
+        }
+        .cardmid{
+          p{
+            font-size: 16px;
+            font-weight: 300;
+          }
+        }
+        .imgbox{
+          height: 300px;
+          width: 100%;
+        }
+        .card1img{
+          width: 100%;
+          height: 300px;
+          background-image: url('Recipes/img/img1card.png');
+          background-size: cover;
+          background-position: center top;
+          background-repeat: no-repeat;
+          margin: 10px 0;
+          border-radius: 20px;
+        }
+        .card2img{
+          width: 100%;
+          height: 300px;
+          background-image: url('Recipes/img/img2card.png');
+          background-size: cover;
+          background-position: 50% 50%;
+          background-repeat: no-repeat;
+          margin: 10px 0;
+          border-radius: 20px;
+        }
+        .card3img{
+          width: 100%;
+          height: 300px;
+          background-image: url('Recipes/img/img3card.png');
+          background-size: cover;
+          background-position: 50% 50%;
+          background-repeat: no-repeat;
+          margin: 10px 0;
+          border-radius: 20px;
+        }
+        .card4img{
+          width: 100%;
+          height: 300px;
+          background-image: url('Recipes/img/img4card.png');
+          background-size: cover;
+          background-position: 60% 40%;
+          background-repeat: no-repeat;
+          margin: 10px 0;
+          border-radius: 20px;
+        }
+        .cardbot{
+          display: flex;
+          margin-top: 10px;
+          align-content: center;
+          .likebtn{
+            height: 25px;
+            width: 25px;
+            background-image: url('Recipes/img/Thumbsup.png');
+            background-size: cover;
+            background-position: center top;
+            background-repeat: no-repeat;
+            cursor: pointer;
+          }
+          .sharebtn{
+            height: 25px;
+            width: 25px;
+            background-image: url('Recipes/img/Share.png');
+            background-size: contain;
+            background-position: center top;
+            background-repeat: no-repeat;
+            cursor: pointer;
+          }
+          span{
+            font-size: 20px;
+            margin: 0 10px;
+          }
+        }
+        .stars {
+          color: $orange;
+        }
+      }
+    }
+  }
+  @media (max-width: 768px) {
+    .card-section .cards {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 20px;
+        margin-bottom: 100px;
+    }
+
+    .card-section h1 {
+        margin-top: 20px;
+        text-align: center;
+    }
+    .card{
+        margin-bottom: 25px;
+    }
+}

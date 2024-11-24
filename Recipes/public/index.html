@@ -1,37 +1,289 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Meal Search App</title>
-  <link rel="stylesheet" href="/public/css/style.css">
-</head>
-<body>
-  <header>
-    <h1>Meal Search App</h1>
-    <nav>
-      <input type="text" id="mealSearch" placeholder="Search meals...">
-      <button id="searchButton">Search</button>
-      <button id="randomButton">Random Meal</button>
-    </nav>
-  </header>
-  <main>
-    <section id="categories">
-      <h2>Categories</h2>
-      <div id="categoryList"></div>
+  <html lang="en">
+  <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Styled Page</title>
+      <link rel="stylesheet" href="/public/public/css/style.css">
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <header class="container">
+        <div class="logo-placeholder">
+          <div class="logo"></div>
+        </div>
+        <nav>
+          <ul>
+            <li>
+              <a href="#">Home</a>
+              <a href="#">Recipe</a>
+              <a href="#">Community</a>
+              <a href="#">About Us</a>
+            </li>
+          </ul>
+        </nav>
+        <div class="nav-icons">
+          <div class="first-icon-box">
+            <div class="first-icon"></div>
+          </div>
+          <div class="second-icon-box">
+            <div class="second-icon"></div>
+          </div>
+        </div>
+    </header>
+
+    <section class="hero container">
+        <div class="hero-content">
+            <h1>Cooking Made Fun and Easy: Unleash Your Inner Chef</h1>
+            <p>Discover more than <span class="gold-words">10,000 recipes</span> in your hand with the best recipe. Help you to find the easiest way to cook.</p>
+            <button>Explore Recipes</button>
+        </div>
+        <div class="hero-box">
+          <div class="hero-image">
+            <div class="hero-overlay-first">
+                <div class="ins-first">
+                  <div class="stars">★★★★★</div>
+                  <p>"The recipes here are not only delicious but also easy to follow”.</p>
+                </div>
+                <div class="profile">
+                  <div class="prof-pic"></div>
+                  <p>Sarah M.</p>
+                  <div class="like"></div>
+                </div>
+            </div>
+            <div class="hero-overlay-second">
+              <div class="ins-second">
+                <div class="stars">★★★★★</div>
+                <p>“I've discovered a treasure trove of meatless recipes that have made my meals”.</p>
+              </div>
+              <div class="profile">
+                <div class="prof-pic"></div>
+                <p>Farellin J.</p>
+                <div class="like"></div>
+              </div>
+            </div>
+        </div>
+        </div>
     </section>
-    <section id="results">
-      <h2>Search Results</h2>
-      <div id="resultList"></div>
+
+    <section class="main container">
+      <div class="top-row">
+        <div class="discover-more">
+          <h1>Discover, Create, Share</h1>
+          <p>Check our most popular recipes of this week</p>
+        </div>
+        <button aria-label="See all popular recipes">See all</button>
+      </div>
+    
+      <section class="search-section">
+        <h2 class="sr-only">Search Recipes</h2>
+        <form id="searchForm" class="input-row">
+          <label for="recipe-input">Search for a recipe:</label>
+          <input
+            type="text"
+            name="input"
+            id="recipe-input"
+            placeholder="Input a recipe"
+            aria-label="Search for a recipe"
+          />
+          <button type="submit" class="recipe-button" aria-label="Search recipes">Search</button>
+        </form>
+        <button id="randomMeal" aria-label="Get a random recipe">Get Random Meal</button>
+      </section>
+      
+      <section class="recipe-display">
+        <h2 class="sr-only">Search Results</h2>
+        <div id="meal-container"></div>
+      </section>
+      
+      <section class="meal-details">
+        <h2 class="sr-only">Meal Details:</h2>
+        <div id="meal-details"></div>
+      </section>
     </section>
-    <section id="mealDetails" class="hidden">
-      <h2>Meal Details</h2>
-      <div id="mealDetailContent"></div>
+
+  <section class="custom-section container">
+      <div class="image-placeholder"></div>
+      <div class="side-div side-div-left">
+        <div class="ins-left">
+          <p>50+ Quick Food Recipes 
+            That Easy To Do!</p>
+        </div>
+      </div>
+      <div class="side-div side-div-right">
+        <div class="ins-right">
+          <h1>About Us</h1>
+          <p>Our recipes are the heart and soul of our culinary community, and they reflect our commitment to providing you with memorable and delightful dining experiences.</p>
+          <button>Learn More</button>
+        </div>
+      </div>
+  </section>
+
+    <section class="card-section container">
+        <h1>From Our Community</h1>
+        <div class="cards">
+            <div class="card">
+              <div class="card-top">
+                <div class="card1pic"></div>
+                <div class="cardname">
+                  <h3>Spaghetti Bolognesse</h3>
+                  <p>Lady Rudy</p>
+                </div>
+              </div>
+              <div class="cardmid">
+                <span class="stars">★★★★★</span>
+                <p>I have to say, your Spaghetti Bolognese recipe is nothing short of amazing! I've always been a fan of Italian cuisine, but I was a bit intimidated by the idea of making this classic at home.</p>
+              </div>
+              <div class="card1img"></div>
+              <div class="cardbot">
+                <div class="likebtn"></div>
+                <span>2</span>
+                <div class="sharebtn"></div>
+                <span>Share</span>
+              </div>
+            </div>
+            <div class="card">
+              <div class="card-top">
+                <div class="card2pic"></div>
+                <div class="cardname">
+                  <h3>Roasted Chicken</h3>
+                  <p>Emily Rose</p>
+                </div>
+              </div>
+              <div class="cardmid">
+                <span class="stars">★★★★★</span>
+                <p>I've always been a bit hesitant to roast a whole chicken, fearing it might be too complicated, but your recipe changed that for me. The instructions were so clear and easy to follow</p>
+              </div>
+              <div class="card2img"></div>
+              <div class="cardbot">
+                <div class="likebtn"></div>
+                <span>5</span>
+                <div class="sharebtn"></div>
+                <span>Share</span>
+              </div>
+            </div>
+        </div>
+        <div class="cards">
+          <div class="card">
+            <div class="card-top">
+              <div class="card3pic"></div>
+              <div class="cardname">
+                <h3>Vegetable Pot Pie</h3>
+                <p>Susan H</p>
+              </div>
+            </div>
+            <div class="cardmid">
+              <span class="stars">★★★★★</span>
+              <p>I've always been a fan of hearty comfort food, and the 'Ultimate Vegetable Pot Pie' recipe on this platform completely exceeded my expectations.</p>
+            </div>
+            <div class="card3img"></div>
+            <div class="cardbot">
+              <div class="likebtn"></div>
+              <span>3</span>
+              <div class="sharebtn"></div>
+              <span>Share</span>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-top">
+              <div class="card4pic"></div>
+              <div class="cardname">
+                <h3>Fresh Garden Salad</h3>
+                <p>Lilac Laura</p>
+              </div>
+            </div>
+            <div class="cardmid">
+              <span class="stars">★★★★★</span>
+              <p>"I've always considered myself a salad enthusiast, and this salad recipe is nothing short of a culinary masterpiece and has taken my love for greens to a whole new level.</p>
+            </div>
+            <div class="imgbox">
+              <div class="card4img"></div>
+            </div>
+            <div class="cardbot">
+              <div class="likebtn"></div>
+              <span>1</span>
+              <div class="sharebtn"></div>
+              <span>Share</span>
+            </div>
+          </div>
+      </div>
     </section>
-  </main>
-  <footer>
-    <p>© 2024 Meal Search App</p>
-  </footer>
-  <script src="/public/js/app.js"></script>
-</body>
+
+    <section class="cta-section container">
+      <div class="add-div">
+        <h1>Embrace the joy of cooking with get it on your iPhone or Android. Your kitchen adventure begins now!</h1>
+        <div class="add-buttons">
+          <button class="app-download add-btn">
+            <div class="apple-logo"></div>
+            <div>
+              <p class="left-download-first">Download on the</p>
+              <p class="left-download-second">App Store</p>
+            </div>
+          </button>
+          <button class="store-download add-btn">
+            <div class="store-logo"></div>
+            <div>
+              <p class="right-get">GET IT ON</p>
+              <p class="right-google">Google Play</p>
+            </div>
+          </button>
+        </div>
+      </div>
+      <div class="image-box">
+        <div class="image-placeholder"></div>
+      </div>
+    </section>
+
+    <footer class="container">
+      <div class="logo-placeholder"></div>
+      <div class="footer-content">
+        <div class="footer-left">
+          <div class="footer-menu">
+            <h3>Menu</h3>
+            <ul>
+              <li>
+                <p class="greentext">Home</p>
+                <p>Recipe</p>
+                <p>Community</p>
+                <p>About Us</p>
+              </li>
+            </ul>
+          </div>
+          <div class="footer-categories">
+            <h3>Categories</h3>
+            <ul>
+              <li>
+                <p>Breakfast</p>
+                <p>Lunch</p>
+                <p>Dinner</p>
+                <p>Dessert</p>
+                <p>Drink</p>
+              </li>
+            </ul>
+          </div>
+          <div class="footer-social">
+            <h3>Social</h3>
+            <ul>
+              <li>
+                <p>Instagram</p>
+                <p>Twitter</p>
+                <p>Youtube</p>
+                <p>Facebook</p>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="footer-right">
+          <h4>Sign up for our newsletter</h4>
+          <div class="input-button-row">
+            <input type="text" placeholder="Your email address">
+            <button>Subscribe</button>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <script src="/public/js/app.js"></script>
+  </body>
 </html>
