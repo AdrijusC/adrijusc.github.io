@@ -1,0 +1,33 @@
+@import "../../styles/variables";
+
+.order-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid $light-gray;
+    border-radius: $border-radius;
+    margin-bottom: 10px;
+  
+    &.outstanding {
+      background-color: $secondary-color;
+      color: white;
+    }
+  
+    &.fulfilled {
+      background-color: lighten($secondary-color, 20%);
+    }
+  
+    button {
+      background-color: $primary-color;
+      color: white;
+      border: none;
+      border-radius: $border-radius;
+      padding: 5px 10px;
+      cursor: pointer;
+  
+      &:hover {
+        background-color: darken($primary-color, 10%);
+      }
+    }
+  }

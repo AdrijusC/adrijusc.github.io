@@ -1,0 +1,13 @@
+.app {
+    text-align: center;
+    padding: 20px;
+  
+    .filter {
+      margin: 20px 0;
+      button {
+        margin: 0 5px;
+        padding: 5px 10px;
+        cursor: pointer;
+      }
+    }
+  }

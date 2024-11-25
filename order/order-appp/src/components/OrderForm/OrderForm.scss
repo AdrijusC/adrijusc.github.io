@@ -1,0 +1,27 @@
+@import "../../styles/variables";
+
+.order-form {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+  
+    input {
+      flex: 1;
+      padding: 8px;
+      border: 1px solid $light-gray;
+      border-radius: $border-radius;
+    }
+  
+    button {
+      padding: 8px 16px;
+      background-color: $primary-color;
+      color: white;
+      border: none;
+      border-radius: $border-radius;
+      cursor: pointer;
+  
+      &:hover {
+        background-color: darken($primary-color, 10%);
+      }
+    }
+  }

@@ -10,7 +10,7 @@ const OrderForm = ({ addOrder }) => {
       addOrder(name);
       setName("");
     } else {
-      alert("Order name cannot be empty!");
+      alert("Order name cannot be empty");
     }
   };
 
