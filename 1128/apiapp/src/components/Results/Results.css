@@ -1,0 +1,22 @@
+.results {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .results ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .results li {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  @media (max-width: 600px) {
+    .results li {
+      font-size: 14px;
+    }
+  }
