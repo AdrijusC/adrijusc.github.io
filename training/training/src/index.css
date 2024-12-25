@@ -1,0 +1,35 @@
+html, body {
+  margin: 0;
+}
+
+header {
+  background: #f55a5a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  height: 55px;
+}
+header > img {
+  width: 40px;
+  margin-right: 7px;
+}
+header > h1 {
+  font-size: 0.9 rem;
+  font-weight: 500;
+  font-family: Inter;
+}
+article.journal-entry{
+  display: flex;
+}
+.main-image-container {
+  width: 125px;
+  height: 168px;
+  overflow: hidden;
+  border-radius: 5px;
+}
+.main-image{
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
