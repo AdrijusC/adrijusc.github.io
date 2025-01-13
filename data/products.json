@@ -1,0 +1,82 @@
+[
+    {
+      "id": 0,
+      "productName": "kompiuteris",
+      "from": "Intel",
+      "quantity": 5,
+      "price": 800,
+      "description": "Nešiojamas kompiuteris su 15 colių ekranu, Intel Core i5 procesoriumi ir 8 GB RAM atmintimi."
+    },
+    {
+      "id": 1,
+      "productName": "Stacionarus kompiuteris",
+      "from": "Intel",
+      "quantity": 3,
+      "price": 1200,
+      "description": "Stacionarus kompiuteris su Intel Core i7 procesoriumi, 16 GB RAM atmintimi ir 512 GB SSD disku."
+    },
+    {
+      "id": 2,
+      "productName": "Planšetinis kompiuteris",
+      "from": "Android",
+      "quantity": 2,
+      "price": 600,
+      "description": "Planšetinis kompiuteris su 10 colių ekranu, Android operacinė sistema ir 64 GB vidine atmintimi."
+    },
+    {
+      "id": 3,
+      "productName": "Nešiojamas kompiuteris",
+      "from": "Dell",
+      "quantity": 4,
+      "price": 900,
+      "description": "Nešiojamas kompiuteris su 14 colių ekranu, Intel Core i3 procesoriumi ir 4 GB RAM atmintimi."
+    },
+    {
+      "id": 4,
+      "productName": "Stacionarus kompiuteris",
+      "from": "AMD",
+      "quantity": 2,
+      "price": 1000,
+      "description": "Stacionarus kompiuteris su AMD Ryzen 5 procesoriumi, 8 GB RAM atmintimi ir 256 GB SSD disku."
+    },
+    {
+      "id": 5,
+      "productName": "Nešiojamas kompiuteris",
+      "from": "Asus",
+      "quantity": 3,
+      "price": 750,
+      "description": "Nešiojamas kompiuteris su 13 colių ekranu, Intel Core i5 procesoriumi ir 512 GB SSD disku."
+    },
+    {
+      "id": 6,
+      "productName": "Planšetinis kompiuteris",
+      "from": "Samsung",
+      "quantity": 1,
+      "price": 500,
+      "description": "Planšetinis kompiuteris su 12 colių ekranu, Samsung Exynos 5 procesoriumi ir 128 GB vidine atmintimi."
+    },
+    {
+      "id": 7,
+      "productName": "Stacionarus kompiuteris",
+      "from": "NVIDIA",
+      "quantity": 1,
+      "price": 1500,
+      "description": "Stacionarus kompiuteris su NVIDIA GeForce RTX 3060 grafine korta, Intel Core i9 procesoriumi, 32 GB RAM atmintimi ir 1 TB SSD disku."
+    },
+    {
+      "id": 8,
+      "productName": "Nešiojamas kompiuteris",
+      "from": "MSI",
+      "quantity": 1,
+      "price": 1100,
+      "description": "Nešiojamas kompiuteris su 17 colių ekranu, NVIDIA GeForce GTX 1650 grafine korta, Intel Core i7 procesoriumi ir 16 GB RAM atmintimi."
+    },
+    {
+      "id": 9,
+      "productName": "Planšetinis kompiuteris",
+      "from": "Apple",
+      "quantity": 1,
+      "price": 900,
+      "description": "Planšetinis kompiuteris su 11 colių ekranu, Apple M1 procesoriumi, 256 GB vidine atmintimi ir Retina ekranu."
+    }
+  ]
