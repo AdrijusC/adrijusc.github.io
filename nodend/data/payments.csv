@@ -1,0 +1,8 @@
+id,userId,amount,currency,date,description
+1,1,100.50,USD,2025-01-01,"Payment for services"
+2,2,200.75,USD,2025-01-02,"Subscription fee"
+
+3,1,50.00,EUR,2025-01-10,"Additional charges"
+,,,,
+
+4,4,300.00,USD,2025-01-15,"One-time payment"
