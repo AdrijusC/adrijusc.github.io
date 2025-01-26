@@ -1,0 +1,6020 @@
+[
+  {
+    "sensorId": "sensor-9879",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.17",
+    "humidity": "63.55"
+  },
+  {
+    "sensorId": "sensor-5728",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.63",
+    "humidity": "62.47"
+  },
+  {
+    "sensorId": "sensor-4713",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.52",
+    "humidity": "62.66"
+  },
+  {
+    "sensorId": "sensor-9408",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.30",
+    "humidity": "58.06"
+  },
+  {
+    "sensorId": "sensor-2777",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.25",
+    "humidity": "57.10"
+  },
+  {
+    "sensorId": "sensor-2656",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.34",
+    "humidity": "64.69"
+  },
+  {
+    "sensorId": "sensor-2741",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.18",
+    "humidity": "64.44"
+  },
+  {
+    "sensorId": "sensor-8238",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.24",
+    "humidity": "58.85"
+  },
+  {
+    "sensorId": "sensor-3078",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.38",
+    "humidity": "61.48"
+  },
+  {
+    "sensorId": "sensor-5967",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.02",
+    "humidity": "59.61"
+  },
+  {
+    "sensorId": "sensor-5420",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.81",
+    "humidity": "63.42"
+  },
+  {
+    "sensorId": "sensor-700",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.26",
+    "humidity": "58.52"
+  },
+  {
+    "sensorId": "sensor-4500",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.88",
+    "humidity": "62.40"
+  },
+  {
+    "sensorId": "sensor-6154",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.16",
+    "humidity": "58.68"
+  },
+  {
+    "sensorId": "sensor-9763",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.40",
+    "humidity": "60.30"
+  },
+  {
+    "sensorId": "sensor-6785",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.27",
+    "humidity": "64.29"
+  },
+  {
+    "sensorId": "sensor-4673",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.68",
+    "humidity": "62.99"
+  },
+  {
+    "sensorId": "sensor-2000",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.49",
+    "humidity": "61.34"
+  },
+  {
+    "sensorId": "sensor-4212",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.22",
+    "humidity": "61.12"
+  },
+  {
+    "sensorId": "sensor-7689",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.01",
+    "humidity": "56.69"
+  },
+  {
+    "sensorId": "sensor-7242",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.74",
+    "humidity": "55.87"
+  },
+  {
+    "sensorId": "sensor-8898",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.72",
+    "humidity": "64.18"
+  },
+  {
+    "sensorId": "sensor-5145",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.53",
+    "humidity": "61.19"
+  },
+  {
+    "sensorId": "sensor-6231",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.27",
+    "humidity": "64.98"
+  },
+  {
+    "sensorId": "sensor-7769",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.96",
+    "humidity": "55.55"
+  },
+  {
+    "sensorId": "sensor-4900",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.54",
+    "humidity": "58.52"
+  },
+  {
+    "sensorId": "sensor-7898",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.77",
+    "humidity": "57.39"
+  },
+  {
+    "sensorId": "sensor-8652",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.75",
+    "humidity": "64.97"
+  },
+  {
+    "sensorId": "sensor-3285",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.57",
+    "humidity": "64.55"
+  },
+  {
+    "sensorId": "sensor-9294",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.51",
+    "humidity": "58.68"
+  },
+  {
+    "sensorId": "sensor-7000",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.17",
+    "humidity": "59.90"
+  },
+  {
+    "sensorId": "sensor-6888",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.53",
+    "humidity": "60.99"
+  },
+  {
+    "sensorId": "sensor-4715",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.20",
+    "humidity": "63.63"
+  },
+  {
+    "sensorId": "sensor-5659",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.70",
+    "humidity": "64.87"
+  },
+  {
+    "sensorId": "sensor-9438",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.22",
+    "humidity": "58.04"
+  },
+  {
+    "sensorId": "sensor-798",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.04",
+    "humidity": "57.09"
+  },
+  {
+    "sensorId": "sensor-9057",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.09",
+    "humidity": "62.52"
+  },
+  {
+    "sensorId": "sensor-9877",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.80",
+    "humidity": "57.65"
+  },
+  {
+    "sensorId": "sensor-2973",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.16",
+    "humidity": "64.53"
+  },
+  {
+    "sensorId": "sensor-3107",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.88",
+    "humidity": "60.21"
+  },
+  {
+    "sensorId": "sensor-3652",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.89",
+    "humidity": "64.02"
+  },
+  {
+    "sensorId": "sensor-3365",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.43",
+    "humidity": "60.26"
+  },
+  {
+    "sensorId": "sensor-4314",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.24",
+    "humidity": "59.69"
+  },
+  {
+    "sensorId": "sensor-5982",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.48",
+    "humidity": "58.74"
+  },
+  {
+    "sensorId": "sensor-4145",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.32",
+    "humidity": "64.34"
+  },
+  {
+    "sensorId": "sensor-7176",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.38",
+    "humidity": "59.40"
+  },
+  {
+    "sensorId": "sensor-8439",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.96",
+    "humidity": "57.26"
+  },
+  {
+    "sensorId": "sensor-7007",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.11",
+    "humidity": "55.67"
+  },
+  {
+    "sensorId": "sensor-9700",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.57",
+    "humidity": "60.83"
+  },
+  {
+    "sensorId": "sensor-6538",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.10",
+    "humidity": "62.93"
+  },
+  {
+    "sensorId": "sensor-4423",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.37",
+    "humidity": "62.90"
+  },
+  {
+    "sensorId": "sensor-1107",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.72",
+    "humidity": "57.35"
+  },
+  {
+    "sensorId": "sensor-2446",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.73",
+    "humidity": "58.98"
+  },
+  {
+    "sensorId": "sensor-5600",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.21",
+    "humidity": "62.47"
+  },
+  {
+    "sensorId": "sensor-3336",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.80",
+    "humidity": "60.82"
+  },
+  {
+    "sensorId": "sensor-2203",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.15",
+    "humidity": "63.20"
+  },
+  {
+    "sensorId": "sensor-6623",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.62",
+    "humidity": "59.24"
+  },
+  {
+    "sensorId": "sensor-9023",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.19",
+    "humidity": "62.76"
+  },
+  {
+    "sensorId": "sensor-2245",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.76",
+    "humidity": "57.14"
+  },
+  {
+    "sensorId": "sensor-2995",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.76",
+    "humidity": "56.75"
+  },
+  {
+    "sensorId": "sensor-8871",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.76",
+    "humidity": "63.43"
+  },
+  {
+    "sensorId": "sensor-5512",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.14",
+    "humidity": "58.69"
+  },
+  {
+    "sensorId": "sensor-9401",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.70",
+    "humidity": "62.00"
+  },
+  {
+    "sensorId": "sensor-9537",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.82",
+    "humidity": "64.14"
+  },
+  {
+    "sensorId": "sensor-8929",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.34",
+    "humidity": "60.33"
+  },
+  {
+    "sensorId": "sensor-6838",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.59",
+    "humidity": "60.42"
+  },
+  {
+    "sensorId": "sensor-1753",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.10",
+    "humidity": "62.08"
+  },
+  {
+    "sensorId": "sensor-970",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.33",
+    "humidity": "56.41"
+  },
+  {
+    "sensorId": "sensor-5401",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.55",
+    "humidity": "56.27"
+  },
+  {
+    "sensorId": "sensor-3464",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "25.00",
+    "humidity": "64.22"
+  },
+  {
+    "sensorId": "sensor-7174",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.33",
+    "humidity": "56.27"
+  },
+  {
+    "sensorId": "sensor-2147",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.20",
+    "humidity": "56.36"
+  },
+  {
+    "sensorId": "sensor-2050",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.45",
+    "humidity": "62.09"
+  },
+  {
+    "sensorId": "sensor-3297",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.68",
+    "humidity": "56.50"
+  },
+  {
+    "sensorId": "sensor-6962",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.22",
+    "humidity": "64.90"
+  },
+  {
+    "sensorId": "sensor-6475",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.75",
+    "humidity": "55.45"
+  },
+  {
+    "sensorId": "sensor-4207",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.91",
+    "humidity": "55.01"
+  },
+  {
+    "sensorId": "sensor-5789",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.15",
+    "humidity": "56.76"
+  },
+  {
+    "sensorId": "sensor-9080",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.66",
+    "humidity": "55.98"
+  },
+  {
+    "sensorId": "sensor-8198",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.67",
+    "humidity": "58.42"
+  },
+  {
+    "sensorId": "sensor-3808",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.23",
+    "humidity": "59.79"
+  },
+  {
+    "sensorId": "sensor-6256",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.22",
+    "humidity": "55.97"
+  },
+  {
+    "sensorId": "sensor-4372",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.11",
+    "humidity": "59.03"
+  },
+  {
+    "sensorId": "sensor-787",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.97",
+    "humidity": "63.37"
+  },
+  {
+    "sensorId": "sensor-841",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.21",
+    "humidity": "60.31"
+  },
+  {
+    "sensorId": "sensor-7031",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.91",
+    "humidity": "61.91"
+  },
+  {
+    "sensorId": "sensor-4646",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.16",
+    "humidity": "56.15"
+  },
+  {
+    "sensorId": "sensor-5093",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.42",
+    "humidity": "59.76"
+  },
+  {
+    "sensorId": "sensor-7961",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.67",
+    "humidity": "60.14"
+  },
+  {
+    "sensorId": "sensor-7157",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.10",
+    "humidity": "55.65"
+  },
+  {
+    "sensorId": "sensor-8257",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.03",
+    "humidity": "62.80"
+  },
+  {
+    "sensorId": "sensor-7553",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.48",
+    "humidity": "61.26"
+  },
+  {
+    "sensorId": "sensor-9652",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.07",
+    "humidity": "58.13"
+  },
+  {
+    "sensorId": "sensor-2314",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.48",
+    "humidity": "56.04"
+  },
+  {
+    "sensorId": "sensor-8412",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.12",
+    "humidity": "61.66"
+  },
+  {
+    "sensorId": "sensor-935",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.33",
+    "humidity": "62.91"
+  },
+  {
+    "sensorId": "sensor-4243",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.66",
+    "humidity": "55.06"
+  },
+  {
+    "sensorId": "sensor-1828",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.19",
+    "humidity": "61.21"
+  },
+  {
+    "sensorId": "sensor-16",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.47",
+    "humidity": "56.73"
+  },
+  {
+    "sensorId": "sensor-2505",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.63",
+    "humidity": "64.53"
+  },
+  {
+    "sensorId": "sensor-9402",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.23",
+    "humidity": "64.31"
+  },
+  {
+    "sensorId": "sensor-9100",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.20",
+    "humidity": "58.81"
+  },
+  {
+    "sensorId": "sensor-3441",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.52",
+    "humidity": "58.27"
+  },
+  {
+    "sensorId": "sensor-9665",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.80",
+    "humidity": "63.81"
+  },
+  {
+    "sensorId": "sensor-9489",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.64",
+    "humidity": "61.57"
+  },
+  {
+    "sensorId": "sensor-117",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.79",
+    "humidity": "62.94"
+  },
+  {
+    "sensorId": "sensor-904",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.96",
+    "humidity": "60.23"
+  },
+  {
+    "sensorId": "sensor-6518",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.00",
+    "humidity": "63.35"
+  },
+  {
+    "sensorId": "sensor-4407",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.45",
+    "humidity": "61.59"
+  },
+  {
+    "sensorId": "sensor-6207",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.41",
+    "humidity": "63.94"
+  },
+  {
+    "sensorId": "sensor-4589",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.10",
+    "humidity": "62.43"
+  },
+  {
+    "sensorId": "sensor-3460",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.37",
+    "humidity": "55.42"
+  },
+  {
+    "sensorId": "sensor-6617",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.96",
+    "humidity": "61.66"
+  },
+  {
+    "sensorId": "sensor-865",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.20",
+    "humidity": "57.14"
+  },
+  {
+    "sensorId": "sensor-4247",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.35",
+    "humidity": "60.71"
+  },
+  {
+    "sensorId": "sensor-6793",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.33",
+    "humidity": "61.59"
+  },
+  {
+    "sensorId": "sensor-7269",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.86",
+    "humidity": "59.48"
+  },
+  {
+    "sensorId": "sensor-7723",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.60",
+    "humidity": "56.13"
+  },
+  {
+    "sensorId": "sensor-8611",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.16",
+    "humidity": "58.56"
+  },
+  {
+    "sensorId": "sensor-2202",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.37",
+    "humidity": "56.71"
+  },
+  {
+    "sensorId": "sensor-3277",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.15",
+    "humidity": "60.69"
+  },
+  {
+    "sensorId": "sensor-8345",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.61",
+    "humidity": "64.82"
+  },
+  {
+    "sensorId": "sensor-2859",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.26",
+    "humidity": "59.41"
+  },
+  {
+    "sensorId": "sensor-2894",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.56",
+    "humidity": "58.67"
+  },
+  {
+    "sensorId": "sensor-3428",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.60",
+    "humidity": "59.01"
+  },
+  {
+    "sensorId": "sensor-3447",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.58",
+    "humidity": "62.41"
+  },
+  {
+    "sensorId": "sensor-1274",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.39",
+    "humidity": "61.41"
+  },
+  {
+    "sensorId": "sensor-6508",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.63",
+    "humidity": "60.25"
+  },
+  {
+    "sensorId": "sensor-9485",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.81",
+    "humidity": "56.41"
+  },
+  {
+    "sensorId": "sensor-2587",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.88",
+    "humidity": "56.56"
+  },
+  {
+    "sensorId": "sensor-5252",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.84",
+    "humidity": "62.01"
+  },
+  {
+    "sensorId": "sensor-5174",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.19",
+    "humidity": "60.34"
+  },
+  {
+    "sensorId": "sensor-7101",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.06",
+    "humidity": "64.12"
+  },
+  {
+    "sensorId": "sensor-8049",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.96",
+    "humidity": "61.89"
+  },
+  {
+    "sensorId": "sensor-5179",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.90",
+    "humidity": "55.29"
+  },
+  {
+    "sensorId": "sensor-5794",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.80",
+    "humidity": "58.35"
+  },
+  {
+    "sensorId": "sensor-9386",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.68",
+    "humidity": "64.68"
+  },
+  {
+    "sensorId": "sensor-6852",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.13",
+    "humidity": "60.11"
+  },
+  {
+    "sensorId": "sensor-1855",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.80",
+    "humidity": "64.54"
+  },
+  {
+    "sensorId": "sensor-3938",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.89",
+    "humidity": "59.95"
+  },
+  {
+    "sensorId": "sensor-9164",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.13",
+    "humidity": "64.08"
+  },
+  {
+    "sensorId": "sensor-283",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.67",
+    "humidity": "60.99"
+  },
+  {
+    "sensorId": "sensor-4517",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.10",
+    "humidity": "61.92"
+  },
+  {
+    "sensorId": "sensor-8175",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.35",
+    "humidity": "58.37"
+  },
+  {
+    "sensorId": "sensor-146",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.78",
+    "humidity": "63.44"
+  },
+  {
+    "sensorId": "sensor-1876",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.93",
+    "humidity": "63.25"
+  },
+  {
+    "sensorId": "sensor-7214",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.04",
+    "humidity": "60.48"
+  },
+  {
+    "sensorId": "sensor-2730",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.96",
+    "humidity": "56.31"
+  },
+  {
+    "sensorId": "sensor-8175",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.03",
+    "humidity": "55.42"
+  },
+  {
+    "sensorId": "sensor-3187",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.48",
+    "humidity": "55.19"
+  },
+  {
+    "sensorId": "sensor-6430",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.82",
+    "humidity": "55.83"
+  },
+  {
+    "sensorId": "sensor-6027",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.07",
+    "humidity": "55.79"
+  },
+  {
+    "sensorId": "sensor-9563",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.52",
+    "humidity": "60.09"
+  },
+  {
+    "sensorId": "sensor-651",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.83",
+    "humidity": "63.94"
+  },
+  {
+    "sensorId": "sensor-852",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.72",
+    "humidity": "58.58"
+  },
+  {
+    "sensorId": "sensor-804",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.82",
+    "humidity": "62.68"
+  },
+  {
+    "sensorId": "sensor-7435",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.18",
+    "humidity": "55.22"
+  },
+  {
+    "sensorId": "sensor-6325",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.39",
+    "humidity": "63.50"
+  },
+  {
+    "sensorId": "sensor-3885",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.21",
+    "humidity": "63.47"
+  },
+  {
+    "sensorId": "sensor-5151",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.17",
+    "humidity": "64.16"
+  },
+  {
+    "sensorId": "sensor-5538",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.85",
+    "humidity": "58.21"
+  },
+  {
+    "sensorId": "sensor-7079",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.36",
+    "humidity": "58.91"
+  },
+  {
+    "sensorId": "sensor-4581",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.95",
+    "humidity": "61.37"
+  },
+  {
+    "sensorId": "sensor-9209",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.44",
+    "humidity": "56.10"
+  },
+  {
+    "sensorId": "sensor-8535",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.82",
+    "humidity": "58.16"
+  },
+  {
+    "sensorId": "sensor-9352",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.89",
+    "humidity": "55.13"
+  },
+  {
+    "sensorId": "sensor-2714",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.04",
+    "humidity": "61.05"
+  },
+  {
+    "sensorId": "sensor-7213",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.01",
+    "humidity": "55.05"
+  },
+  {
+    "sensorId": "sensor-3179",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.49",
+    "humidity": "64.58"
+  },
+  {
+    "sensorId": "sensor-9157",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.57",
+    "humidity": "60.09"
+  },
+  {
+    "sensorId": "sensor-9193",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.91",
+    "humidity": "58.12"
+  },
+  {
+    "sensorId": "sensor-1453",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.56",
+    "humidity": "64.35"
+  },
+  {
+    "sensorId": "sensor-9783",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.43",
+    "humidity": "59.58"
+  },
+  {
+    "sensorId": "sensor-3584",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.20",
+    "humidity": "55.52"
+  },
+  {
+    "sensorId": "sensor-4606",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.24",
+    "humidity": "64.78"
+  },
+  {
+    "sensorId": "sensor-7531",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.11",
+    "humidity": "55.18"
+  },
+  {
+    "sensorId": "sensor-9879",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.28",
+    "humidity": "64.26"
+  },
+  {
+    "sensorId": "sensor-6813",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.65",
+    "humidity": "59.36"
+  },
+  {
+    "sensorId": "sensor-2803",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.02",
+    "humidity": "60.99"
+  },
+  {
+    "sensorId": "sensor-1078",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.21",
+    "humidity": "64.71"
+  },
+  {
+    "sensorId": "sensor-3174",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.88",
+    "humidity": "56.98"
+  },
+  {
+    "sensorId": "sensor-9587",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.10",
+    "humidity": "62.69"
+  },
+  {
+    "sensorId": "sensor-7758",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.05",
+    "humidity": "59.59"
+  },
+  {
+    "sensorId": "sensor-5427",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.46",
+    "humidity": "56.82"
+  },
+  {
+    "sensorId": "sensor-7172",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.42",
+    "humidity": "62.78"
+  },
+  {
+    "sensorId": "sensor-2405",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.28",
+    "humidity": "63.44"
+  },
+  {
+    "sensorId": "sensor-5123",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.98",
+    "humidity": "58.29"
+  },
+  {
+    "sensorId": "sensor-1098",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.22",
+    "humidity": "59.45"
+  },
+  {
+    "sensorId": "sensor-7952",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.87",
+    "humidity": "59.61"
+  },
+  {
+    "sensorId": "sensor-478",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.79",
+    "humidity": "59.87"
+  },
+  {
+    "sensorId": "sensor-9902",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.02",
+    "humidity": "57.54"
+  },
+  {
+    "sensorId": "sensor-965",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.00",
+    "humidity": "58.27"
+  },
+  {
+    "sensorId": "sensor-3050",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.98",
+    "humidity": "57.25"
+  },
+  {
+    "sensorId": "sensor-9802",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.71",
+    "humidity": "55.00"
+  },
+  {
+    "sensorId": "sensor-715",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.53",
+    "humidity": "62.88"
+  },
+  {
+    "sensorId": "sensor-3749",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.28",
+    "humidity": "63.06"
+  },
+  {
+    "sensorId": "sensor-6916",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.80",
+    "humidity": "56.44"
+  },
+  {
+    "sensorId": "sensor-2170",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.11",
+    "humidity": "56.40"
+  },
+  {
+    "sensorId": "sensor-6661",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.23",
+    "humidity": "62.20"
+  },
+  {
+    "sensorId": "sensor-4706",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.78",
+    "humidity": "58.89"
+  },
+  {
+    "sensorId": "sensor-3550",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.85",
+    "humidity": "64.61"
+  },
+  {
+    "sensorId": "sensor-7401",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.36",
+    "humidity": "57.03"
+  },
+  {
+    "sensorId": "sensor-6981",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.45",
+    "humidity": "60.40"
+  },
+  {
+    "sensorId": "sensor-8443",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.15",
+    "humidity": "59.45"
+  },
+  {
+    "sensorId": "sensor-352",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.68",
+    "humidity": "62.65"
+  },
+  {
+    "sensorId": "sensor-7586",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.99",
+    "humidity": "61.42"
+  },
+  {
+    "sensorId": "sensor-2235",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.93",
+    "humidity": "63.00"
+  },
+  {
+    "sensorId": "sensor-8079",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.62",
+    "humidity": "56.27"
+  },
+  {
+    "sensorId": "sensor-487",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.43",
+    "humidity": "58.35"
+  },
+  {
+    "sensorId": "sensor-7412",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.63",
+    "humidity": "55.46"
+  },
+  {
+    "sensorId": "sensor-1597",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.70",
+    "humidity": "63.76"
+  },
+  {
+    "sensorId": "sensor-88",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.19",
+    "humidity": "63.45"
+  },
+  {
+    "sensorId": "sensor-8106",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.33",
+    "humidity": "57.91"
+  },
+  {
+    "sensorId": "sensor-840",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.53",
+    "humidity": "59.82"
+  },
+  {
+    "sensorId": "sensor-907",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.32",
+    "humidity": "55.34"
+  },
+  {
+    "sensorId": "sensor-290",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.19",
+    "humidity": "56.73"
+  },
+  {
+    "sensorId": "sensor-5504",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.76",
+    "humidity": "57.86"
+  },
+  {
+    "sensorId": "sensor-4481",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.29",
+    "humidity": "57.15"
+  },
+  {
+    "sensorId": "sensor-9984",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.21",
+    "humidity": "57.64"
+  },
+  {
+    "sensorId": "sensor-1850",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.75",
+    "humidity": "57.30"
+  },
+  {
+    "sensorId": "sensor-4551",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.87",
+    "humidity": "61.12"
+  },
+  {
+    "sensorId": "sensor-1380",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.08",
+    "humidity": "63.13"
+  },
+  {
+    "sensorId": "sensor-8685",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.08",
+    "humidity": "62.43"
+  },
+  {
+    "sensorId": "sensor-2251",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.22",
+    "humidity": "58.06"
+  },
+  {
+    "sensorId": "sensor-9500",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.13",
+    "humidity": "62.05"
+  },
+  {
+    "sensorId": "sensor-3949",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.69",
+    "humidity": "61.38"
+  },
+  {
+    "sensorId": "sensor-5230",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.65",
+    "humidity": "62.67"
+  },
+  {
+    "sensorId": "sensor-9456",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.60",
+    "humidity": "63.00"
+  },
+  {
+    "sensorId": "sensor-8564",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.69",
+    "humidity": "62.31"
+  },
+  {
+    "sensorId": "sensor-1015",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.52",
+    "humidity": "57.23"
+  },
+  {
+    "sensorId": "sensor-6997",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.09",
+    "humidity": "59.84"
+  },
+  {
+    "sensorId": "sensor-5013",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.51",
+    "humidity": "63.00"
+  },
+  {
+    "sensorId": "sensor-4202",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.49",
+    "humidity": "58.03"
+  },
+  {
+    "sensorId": "sensor-8294",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.53",
+    "humidity": "61.07"
+  },
+  {
+    "sensorId": "sensor-8669",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.55",
+    "humidity": "61.11"
+  },
+  {
+    "sensorId": "sensor-6227",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.98",
+    "humidity": "60.03"
+  },
+  {
+    "sensorId": "sensor-695",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.27",
+    "humidity": "64.74"
+  },
+  {
+    "sensorId": "sensor-2781",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.84",
+    "humidity": "61.15"
+  },
+  {
+    "sensorId": "sensor-3104",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.70",
+    "humidity": "56.09"
+  },
+  {
+    "sensorId": "sensor-4301",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.52",
+    "humidity": "62.58"
+  },
+  {
+    "sensorId": "sensor-7587",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.88",
+    "humidity": "60.83"
+  },
+  {
+    "sensorId": "sensor-6529",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.08",
+    "humidity": "58.97"
+  },
+  {
+    "sensorId": "sensor-1424",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.62",
+    "humidity": "61.66"
+  },
+  {
+    "sensorId": "sensor-7579",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.58",
+    "humidity": "57.43"
+  },
+  {
+    "sensorId": "sensor-632",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.57",
+    "humidity": "56.67"
+  },
+  {
+    "sensorId": "sensor-8461",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.02",
+    "humidity": "56.82"
+  },
+  {
+    "sensorId": "sensor-1436",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.75",
+    "humidity": "64.82"
+  },
+  {
+    "sensorId": "sensor-3520",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.79",
+    "humidity": "62.72"
+  },
+  {
+    "sensorId": "sensor-6960",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.48",
+    "humidity": "58.22"
+  },
+  {
+    "sensorId": "sensor-8874",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.22",
+    "humidity": "57.90"
+  },
+  {
+    "sensorId": "sensor-3073",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.18",
+    "humidity": "56.42"
+  },
+  {
+    "sensorId": "sensor-3428",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.47",
+    "humidity": "56.09"
+  },
+  {
+    "sensorId": "sensor-7783",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.13",
+    "humidity": "56.94"
+  },
+  {
+    "sensorId": "sensor-3161",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.09",
+    "humidity": "56.58"
+  },
+  {
+    "sensorId": "sensor-6304",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.62",
+    "humidity": "61.74"
+  },
+  {
+    "sensorId": "sensor-6953",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.65",
+    "humidity": "62.69"
+  },
+  {
+    "sensorId": "sensor-9206",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.60",
+    "humidity": "64.80"
+  },
+  {
+    "sensorId": "sensor-9496",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.42",
+    "humidity": "55.32"
+  },
+  {
+    "sensorId": "sensor-937",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.89",
+    "humidity": "59.29"
+  },
+  {
+    "sensorId": "sensor-1230",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.74",
+    "humidity": "62.15"
+  },
+  {
+    "sensorId": "sensor-72",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.04",
+    "humidity": "61.42"
+  },
+  {
+    "sensorId": "sensor-3282",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.40",
+    "humidity": "58.71"
+  },
+  {
+    "sensorId": "sensor-3101",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.47",
+    "humidity": "56.27"
+  },
+  {
+    "sensorId": "sensor-387",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.45",
+    "humidity": "61.34"
+  },
+  {
+    "sensorId": "sensor-1749",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.52",
+    "humidity": "56.45"
+  },
+  {
+    "sensorId": "sensor-5976",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.09",
+    "humidity": "61.56"
+  },
+  {
+    "sensorId": "sensor-5135",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.48",
+    "humidity": "59.39"
+  },
+  {
+    "sensorId": "sensor-2055",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.29",
+    "humidity": "59.69"
+  },
+  {
+    "sensorId": "sensor-6081",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.30",
+    "humidity": "63.24"
+  },
+  {
+    "sensorId": "sensor-5654",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.15",
+    "humidity": "56.22"
+  },
+  {
+    "sensorId": "sensor-4421",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.16",
+    "humidity": "61.09"
+  },
+  {
+    "sensorId": "sensor-9362",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.84",
+    "humidity": "56.81"
+  },
+  {
+    "sensorId": "sensor-357",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.86",
+    "humidity": "56.00"
+  },
+  {
+    "sensorId": "sensor-3107",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.64",
+    "humidity": "60.98"
+  },
+  {
+    "sensorId": "sensor-2559",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.68",
+    "humidity": "62.92"
+  },
+  {
+    "sensorId": "sensor-4780",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.86",
+    "humidity": "62.57"
+  },
+  {
+    "sensorId": "sensor-658",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.07",
+    "humidity": "55.60"
+  },
+  {
+    "sensorId": "sensor-1557",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.82",
+    "humidity": "56.16"
+  },
+  {
+    "sensorId": "sensor-597",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.97",
+    "humidity": "63.97"
+  },
+  {
+    "sensorId": "sensor-3548",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.28",
+    "humidity": "60.10"
+  },
+  {
+    "sensorId": "sensor-1653",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.55",
+    "humidity": "57.49"
+  },
+  {
+    "sensorId": "sensor-7017",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.78",
+    "humidity": "55.47"
+  },
+  {
+    "sensorId": "sensor-7390",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.53",
+    "humidity": "62.05"
+  },
+  {
+    "sensorId": "sensor-3361",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.01",
+    "humidity": "57.29"
+  },
+  {
+    "sensorId": "sensor-2446",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.53",
+    "humidity": "63.09"
+  },
+  {
+    "sensorId": "sensor-7012",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.10",
+    "humidity": "63.87"
+  },
+  {
+    "sensorId": "sensor-1535",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.17",
+    "humidity": "60.23"
+  },
+  {
+    "sensorId": "sensor-5355",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.73",
+    "humidity": "61.16"
+  },
+  {
+    "sensorId": "sensor-5032",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.74",
+    "humidity": "55.73"
+  },
+  {
+    "sensorId": "sensor-6046",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.72",
+    "humidity": "63.32"
+  },
+  {
+    "sensorId": "sensor-5142",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.89",
+    "humidity": "62.57"
+  },
+  {
+    "sensorId": "sensor-2888",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.63",
+    "humidity": "58.97"
+  },
+  {
+    "sensorId": "sensor-3308",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.52",
+    "humidity": "60.79"
+  },
+  {
+    "sensorId": "sensor-1288",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.96",
+    "humidity": "63.38"
+  },
+  {
+    "sensorId": "sensor-7217",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.45",
+    "humidity": "57.22"
+  },
+  {
+    "sensorId": "sensor-3405",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.49",
+    "humidity": "59.46"
+  },
+  {
+    "sensorId": "sensor-4934",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.41",
+    "humidity": "61.57"
+  },
+  {
+    "sensorId": "sensor-6669",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.64",
+    "humidity": "64.50"
+  },
+  {
+    "sensorId": "sensor-926",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.66",
+    "humidity": "62.10"
+  },
+  {
+    "sensorId": "sensor-3601",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.19",
+    "humidity": "58.41"
+  },
+  {
+    "sensorId": "sensor-7957",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.44",
+    "humidity": "60.58"
+  },
+  {
+    "sensorId": "sensor-4841",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.35",
+    "humidity": "57.40"
+  },
+  {
+    "sensorId": "sensor-9150",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.96",
+    "humidity": "60.03"
+  },
+  {
+    "sensorId": "sensor-2324",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.75",
+    "humidity": "60.15"
+  },
+  {
+    "sensorId": "sensor-69",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.79",
+    "humidity": "63.42"
+  },
+  {
+    "sensorId": "sensor-2596",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.88",
+    "humidity": "59.00"
+  },
+  {
+    "sensorId": "sensor-2278",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.82",
+    "humidity": "57.86"
+  },
+  {
+    "sensorId": "sensor-6108",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.90",
+    "humidity": "62.90"
+  },
+  {
+    "sensorId": "sensor-1169",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.70",
+    "humidity": "63.35"
+  },
+  {
+    "sensorId": "sensor-8179",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.89",
+    "humidity": "59.57"
+  },
+  {
+    "sensorId": "sensor-3310",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.22",
+    "humidity": "63.40"
+  },
+  {
+    "sensorId": "sensor-1833",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.58",
+    "humidity": "61.30"
+  },
+  {
+    "sensorId": "sensor-1065",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.22",
+    "humidity": "55.29"
+  },
+  {
+    "sensorId": "sensor-5843",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.81",
+    "humidity": "59.32"
+  },
+  {
+    "sensorId": "sensor-9309",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.77",
+    "humidity": "59.92"
+  },
+  {
+    "sensorId": "sensor-3726",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.07",
+    "humidity": "64.66"
+  },
+  {
+    "sensorId": "sensor-5777",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.24",
+    "humidity": "58.64"
+  },
+  {
+    "sensorId": "sensor-1343",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.60",
+    "humidity": "63.21"
+  },
+  {
+    "sensorId": "sensor-4146",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.62",
+    "humidity": "57.26"
+  },
+  {
+    "sensorId": "sensor-1604",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.03",
+    "humidity": "60.95"
+  },
+  {
+    "sensorId": "sensor-5519",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.59",
+    "humidity": "56.90"
+  },
+  {
+    "sensorId": "sensor-1587",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.53",
+    "humidity": "62.60"
+  },
+  {
+    "sensorId": "sensor-69",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.77",
+    "humidity": "56.91"
+  },
+  {
+    "sensorId": "sensor-4944",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.92",
+    "humidity": "60.98"
+  },
+  {
+    "sensorId": "sensor-5524",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.77",
+    "humidity": "55.01"
+  },
+  {
+    "sensorId": "sensor-4447",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.74",
+    "humidity": "63.38"
+  },
+  {
+    "sensorId": "sensor-4947",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.56",
+    "humidity": "64.31"
+  },
+  {
+    "sensorId": "sensor-8502",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.78",
+    "humidity": "62.86"
+  },
+  {
+    "sensorId": "sensor-6339",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.44",
+    "humidity": "64.55"
+  },
+  {
+    "sensorId": "sensor-6100",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.60",
+    "humidity": "57.72"
+  },
+  {
+    "sensorId": "sensor-255",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.10",
+    "humidity": "57.38"
+  },
+  {
+    "sensorId": "sensor-9802",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.01",
+    "humidity": "56.23"
+  },
+  {
+    "sensorId": "sensor-7721",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.39",
+    "humidity": "59.03"
+  },
+  {
+    "sensorId": "sensor-7210",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.69",
+    "humidity": "59.25"
+  },
+  {
+    "sensorId": "sensor-862",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.36",
+    "humidity": "63.53"
+  },
+  {
+    "sensorId": "sensor-3008",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.29",
+    "humidity": "60.29"
+  },
+  {
+    "sensorId": "sensor-4834",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.04",
+    "humidity": "56.35"
+  },
+  {
+    "sensorId": "sensor-9777",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.83",
+    "humidity": "60.07"
+  },
+  {
+    "sensorId": "sensor-7469",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.49",
+    "humidity": "58.38"
+  },
+  {
+    "sensorId": "sensor-9216",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.85",
+    "humidity": "57.86"
+  },
+  {
+    "sensorId": "sensor-9858",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.71",
+    "humidity": "55.83"
+  },
+  {
+    "sensorId": "sensor-2347",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.55",
+    "humidity": "59.30"
+  },
+  {
+    "sensorId": "sensor-5270",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.45",
+    "humidity": "59.24"
+  },
+  {
+    "sensorId": "sensor-4126",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.24",
+    "humidity": "58.19"
+  },
+  {
+    "sensorId": "sensor-4107",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.29",
+    "humidity": "60.30"
+  },
+  {
+    "sensorId": "sensor-7650",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.28",
+    "humidity": "56.90"
+  },
+  {
+    "sensorId": "sensor-4454",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.49",
+    "humidity": "56.45"
+  },
+  {
+    "sensorId": "sensor-3904",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.04",
+    "humidity": "64.37"
+  },
+  {
+    "sensorId": "sensor-7126",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.58",
+    "humidity": "61.36"
+  },
+  {
+    "sensorId": "sensor-9025",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.47",
+    "humidity": "60.08"
+  },
+  {
+    "sensorId": "sensor-8898",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.83",
+    "humidity": "61.65"
+  },
+  {
+    "sensorId": "sensor-7185",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.73",
+    "humidity": "62.24"
+  },
+  {
+    "sensorId": "sensor-1297",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.41",
+    "humidity": "62.30"
+  },
+  {
+    "sensorId": "sensor-1880",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.71",
+    "humidity": "57.91"
+  },
+  {
+    "sensorId": "sensor-4057",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.25",
+    "humidity": "58.09"
+  },
+  {
+    "sensorId": "sensor-2086",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.09",
+    "humidity": "58.24"
+  },
+  {
+    "sensorId": "sensor-2194",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.86",
+    "humidity": "62.12"
+  },
+  {
+    "sensorId": "sensor-6170",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.78",
+    "humidity": "62.07"
+  },
+  {
+    "sensorId": "sensor-4863",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.80",
+    "humidity": "60.94"
+  },
+  {
+    "sensorId": "sensor-1864",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.28",
+    "humidity": "57.22"
+  },
+  {
+    "sensorId": "sensor-5307",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.96",
+    "humidity": "63.83"
+  },
+  {
+    "sensorId": "sensor-5776",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.87",
+    "humidity": "62.63"
+  },
+  {
+    "sensorId": "sensor-4800",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.11",
+    "humidity": "59.75"
+  },
+  {
+    "sensorId": "sensor-4347",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.79",
+    "humidity": "56.97"
+  },
+  {
+    "sensorId": "sensor-7808",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.97",
+    "humidity": "56.49"
+  },
+  {
+    "sensorId": "sensor-8271",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.09",
+    "humidity": "64.37"
+  },
+  {
+    "sensorId": "sensor-3166",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.02",
+    "humidity": "55.88"
+  },
+  {
+    "sensorId": "sensor-6785",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.28",
+    "humidity": "63.00"
+  },
+  {
+    "sensorId": "sensor-6224",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.84",
+    "humidity": "63.27"
+  },
+  {
+    "sensorId": "sensor-6034",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.78",
+    "humidity": "64.48"
+  },
+  {
+    "sensorId": "sensor-3641",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.65",
+    "humidity": "59.14"
+  },
+  {
+    "sensorId": "sensor-5240",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.92",
+    "humidity": "64.76"
+  },
+  {
+    "sensorId": "sensor-6391",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.26",
+    "humidity": "62.54"
+  },
+  {
+    "sensorId": "sensor-7376",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.52",
+    "humidity": "62.64"
+  },
+  {
+    "sensorId": "sensor-4794",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.04",
+    "humidity": "57.38"
+  },
+  {
+    "sensorId": "sensor-9888",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.23",
+    "humidity": "61.17"
+  },
+  {
+    "sensorId": "sensor-7494",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.30",
+    "humidity": "64.59"
+  },
+  {
+    "sensorId": "sensor-5498",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.12",
+    "humidity": "58.94"
+  },
+  {
+    "sensorId": "sensor-7497",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.65",
+    "humidity": "62.28"
+  },
+  {
+    "sensorId": "sensor-851",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.26",
+    "humidity": "61.18"
+  },
+  {
+    "sensorId": "sensor-7858",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.92",
+    "humidity": "60.21"
+  },
+  {
+    "sensorId": "sensor-9134",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.64",
+    "humidity": "60.18"
+  },
+  {
+    "sensorId": "sensor-2021",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.81",
+    "humidity": "56.06"
+  },
+  {
+    "sensorId": "sensor-2216",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.78",
+    "humidity": "57.45"
+  },
+  {
+    "sensorId": "sensor-4214",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.21",
+    "humidity": "63.48"
+  },
+  {
+    "sensorId": "sensor-3571",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.00",
+    "humidity": "56.91"
+  },
+  {
+    "sensorId": "sensor-7710",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.70",
+    "humidity": "57.12"
+  },
+  {
+    "sensorId": "sensor-4085",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.13",
+    "humidity": "59.47"
+  },
+  {
+    "sensorId": "sensor-8673",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.78",
+    "humidity": "58.33"
+  },
+  {
+    "sensorId": "sensor-499",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.96",
+    "humidity": "58.14"
+  },
+  {
+    "sensorId": "sensor-3600",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.97",
+    "humidity": "63.38"
+  },
+  {
+    "sensorId": "sensor-7292",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.53",
+    "humidity": "63.50"
+  },
+  {
+    "sensorId": "sensor-2864",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.56",
+    "humidity": "56.82"
+  },
+  {
+    "sensorId": "sensor-7155",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.56",
+    "humidity": "56.66"
+  },
+  {
+    "sensorId": "sensor-7487",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.95",
+    "humidity": "63.44"
+  },
+  {
+    "sensorId": "sensor-5594",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.48",
+    "humidity": "62.62"
+  },
+  {
+    "sensorId": "sensor-3558",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.21",
+    "humidity": "57.08"
+  },
+  {
+    "sensorId": "sensor-7977",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.38",
+    "humidity": "64.82"
+  },
+  {
+    "sensorId": "sensor-4830",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.70",
+    "humidity": "58.77"
+  },
+  {
+    "sensorId": "sensor-4130",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.16",
+    "humidity": "58.58"
+  },
+  {
+    "sensorId": "sensor-5458",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.43",
+    "humidity": "56.51"
+  },
+  {
+    "sensorId": "sensor-6329",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.78",
+    "humidity": "64.51"
+  },
+  {
+    "sensorId": "sensor-1583",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.27",
+    "humidity": "55.21"
+  },
+  {
+    "sensorId": "sensor-2904",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.10",
+    "humidity": "59.65"
+  },
+  {
+    "sensorId": "sensor-9982",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.19",
+    "humidity": "57.08"
+  },
+  {
+    "sensorId": "sensor-4723",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.24",
+    "humidity": "59.73"
+  },
+  {
+    "sensorId": "sensor-4140",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.11",
+    "humidity": "63.51"
+  },
+  {
+    "sensorId": "sensor-31",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.58",
+    "humidity": "63.93"
+  },
+  {
+    "sensorId": "sensor-799",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.83",
+    "humidity": "58.95"
+  },
+  {
+    "sensorId": "sensor-9776",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.14",
+    "humidity": "61.57"
+  },
+  {
+    "sensorId": "sensor-6250",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.15",
+    "humidity": "56.17"
+  },
+  {
+    "sensorId": "sensor-362",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.47",
+    "humidity": "64.69"
+  },
+  {
+    "sensorId": "sensor-711",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.98",
+    "humidity": "56.39"
+  },
+  {
+    "sensorId": "sensor-4054",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.37",
+    "humidity": "61.20"
+  },
+  {
+    "sensorId": "sensor-7238",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.25",
+    "humidity": "59.31"
+  },
+  {
+    "sensorId": "sensor-309",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.15",
+    "humidity": "57.87"
+  },
+  {
+    "sensorId": "sensor-3637",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.08",
+    "humidity": "60.07"
+  },
+  {
+    "sensorId": "sensor-1402",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.00",
+    "humidity": "58.35"
+  },
+  {
+    "sensorId": "sensor-1449",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.97",
+    "humidity": "57.94"
+  },
+  {
+    "sensorId": "sensor-95",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.69",
+    "humidity": "56.54"
+  },
+  {
+    "sensorId": "sensor-2542",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.14",
+    "humidity": "59.16"
+  },
+  {
+    "sensorId": "sensor-432",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.92",
+    "humidity": "57.82"
+  },
+  {
+    "sensorId": "sensor-1535",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.52",
+    "humidity": "55.77"
+  },
+  {
+    "sensorId": "sensor-3319",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.97",
+    "humidity": "62.57"
+  },
+  {
+    "sensorId": "sensor-6899",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.79",
+    "humidity": "58.05"
+  },
+  {
+    "sensorId": "sensor-6115",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.21",
+    "humidity": "59.91"
+  },
+  {
+    "sensorId": "sensor-2986",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.34",
+    "humidity": "56.22"
+  },
+  {
+    "sensorId": "sensor-2540",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.55",
+    "humidity": "59.24"
+  },
+  {
+    "sensorId": "sensor-6122",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.77",
+    "humidity": "56.67"
+  },
+  {
+    "sensorId": "sensor-3010",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.10",
+    "humidity": "61.35"
+  },
+  {
+    "sensorId": "sensor-5329",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.79",
+    "humidity": "59.97"
+  },
+  {
+    "sensorId": "sensor-2433",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.98",
+    "humidity": "58.45"
+  },
+  {
+    "sensorId": "sensor-8662",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.03",
+    "humidity": "61.07"
+  },
+  {
+    "sensorId": "sensor-1990",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.96",
+    "humidity": "58.71"
+  },
+  {
+    "sensorId": "sensor-2167",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.45",
+    "humidity": "60.98"
+  },
+  {
+    "sensorId": "sensor-1442",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.94",
+    "humidity": "55.15"
+  },
+  {
+    "sensorId": "sensor-122",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.92",
+    "humidity": "55.56"
+  },
+  {
+    "sensorId": "sensor-769",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.19",
+    "humidity": "61.95"
+  },
+  {
+    "sensorId": "sensor-81",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.79",
+    "humidity": "56.52"
+  },
+  {
+    "sensorId": "sensor-5024",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.30",
+    "humidity": "61.13"
+  },
+  {
+    "sensorId": "sensor-8963",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.08",
+    "humidity": "57.84"
+  },
+  {
+    "sensorId": "sensor-1486",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.14",
+    "humidity": "64.85"
+  },
+  {
+    "sensorId": "sensor-4885",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.01",
+    "humidity": "61.68"
+  },
+  {
+    "sensorId": "sensor-973",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.29",
+    "humidity": "58.99"
+  },
+  {
+    "sensorId": "sensor-7659",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.30",
+    "humidity": "56.57"
+  },
+  {
+    "sensorId": "sensor-6719",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.52",
+    "humidity": "55.83"
+  },
+  {
+    "sensorId": "sensor-4800",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.00",
+    "humidity": "58.48"
+  },
+  {
+    "sensorId": "sensor-6401",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.07",
+    "humidity": "57.34"
+  },
+  {
+    "sensorId": "sensor-709",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.69",
+    "humidity": "61.00"
+  },
+  {
+    "sensorId": "sensor-9564",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.91",
+    "humidity": "55.62"
+  },
+  {
+    "sensorId": "sensor-1746",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.06",
+    "humidity": "62.24"
+  },
+  {
+    "sensorId": "sensor-3908",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.88",
+    "humidity": "55.02"
+  },
+  {
+    "sensorId": "sensor-87",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.31",
+    "humidity": "62.04"
+  },
+  {
+    "sensorId": "sensor-2314",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.79",
+    "humidity": "56.69"
+  },
+  {
+    "sensorId": "sensor-6059",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.45",
+    "humidity": "58.10"
+  },
+  {
+    "sensorId": "sensor-9889",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.51",
+    "humidity": "62.10"
+  },
+  {
+    "sensorId": "sensor-8634",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.59",
+    "humidity": "57.95"
+  },
+  {
+    "sensorId": "sensor-1682",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.51",
+    "humidity": "59.93"
+  },
+  {
+    "sensorId": "sensor-6010",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.45",
+    "humidity": "62.23"
+  },
+  {
+    "sensorId": "sensor-7823",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.75",
+    "humidity": "63.42"
+  },
+  {
+    "sensorId": "sensor-7488",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.44",
+    "humidity": "63.05"
+  },
+  {
+    "sensorId": "sensor-2618",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.07",
+    "humidity": "58.94"
+  },
+  {
+    "sensorId": "sensor-2327",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.02",
+    "humidity": "61.14"
+  },
+  {
+    "sensorId": "sensor-444",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.22",
+    "humidity": "57.11"
+  },
+  {
+    "sensorId": "sensor-9863",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.39",
+    "humidity": "61.46"
+  },
+  {
+    "sensorId": "sensor-4602",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.64",
+    "humidity": "61.02"
+  },
+  {
+    "sensorId": "sensor-958",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.43",
+    "humidity": "60.14"
+  },
+  {
+    "sensorId": "sensor-5123",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.49",
+    "humidity": "55.21"
+  },
+  {
+    "sensorId": "sensor-9342",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.86",
+    "humidity": "62.36"
+  },
+  {
+    "sensorId": "sensor-6409",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.15",
+    "humidity": "62.76"
+  },
+  {
+    "sensorId": "sensor-5670",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.36",
+    "humidity": "63.92"
+  },
+  {
+    "sensorId": "sensor-6291",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.27",
+    "humidity": "63.21"
+  },
+  {
+    "sensorId": "sensor-2947",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.88",
+    "humidity": "64.09"
+  },
+  {
+    "sensorId": "sensor-8100",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.37",
+    "humidity": "58.62"
+  },
+  {
+    "sensorId": "sensor-1530",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.84",
+    "humidity": "55.43"
+  },
+  {
+    "sensorId": "sensor-961",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.63",
+    "humidity": "62.71"
+  },
+  {
+    "sensorId": "sensor-5742",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.80",
+    "humidity": "60.68"
+  },
+  {
+    "sensorId": "sensor-4629",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.87",
+    "humidity": "63.90"
+  },
+  {
+    "sensorId": "sensor-164",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.06",
+    "humidity": "62.06"
+  },
+  {
+    "sensorId": "sensor-3693",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.08",
+    "humidity": "55.95"
+  },
+  {
+    "sensorId": "sensor-3872",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.57",
+    "humidity": "59.30"
+  },
+  {
+    "sensorId": "sensor-9855",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.80",
+    "humidity": "59.54"
+  },
+  {
+    "sensorId": "sensor-9523",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.88",
+    "humidity": "64.28"
+  },
+  {
+    "sensorId": "sensor-2492",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.50",
+    "humidity": "61.64"
+  },
+  {
+    "sensorId": "sensor-1976",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.59",
+    "humidity": "57.13"
+  },
+  {
+    "sensorId": "sensor-2597",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.44",
+    "humidity": "62.93"
+  },
+  {
+    "sensorId": "sensor-7572",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.88",
+    "humidity": "61.80"
+  },
+  {
+    "sensorId": "sensor-4386",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.06",
+    "humidity": "58.29"
+  },
+  {
+    "sensorId": "sensor-200",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.99",
+    "humidity": "63.20"
+  },
+  {
+    "sensorId": "sensor-3171",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.77",
+    "humidity": "60.62"
+  },
+  {
+    "sensorId": "sensor-7234",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.49",
+    "humidity": "55.03"
+  },
+  {
+    "sensorId": "sensor-6273",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.61",
+    "humidity": "62.24"
+  },
+  {
+    "sensorId": "sensor-36",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.03",
+    "humidity": "55.02"
+  },
+  {
+    "sensorId": "sensor-4262",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.64",
+    "humidity": "57.25"
+  },
+  {
+    "sensorId": "sensor-8449",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.67",
+    "humidity": "57.96"
+  },
+  {
+    "sensorId": "sensor-6310",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.49",
+    "humidity": "59.52"
+  },
+  {
+    "sensorId": "sensor-3074",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.05",
+    "humidity": "55.53"
+  },
+  {
+    "sensorId": "sensor-2075",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.74",
+    "humidity": "56.36"
+  },
+  {
+    "sensorId": "sensor-3302",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.27",
+    "humidity": "55.09"
+  },
+  {
+    "sensorId": "sensor-1801",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.78",
+    "humidity": "58.95"
+  },
+  {
+    "sensorId": "sensor-2833",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.26",
+    "humidity": "63.68"
+  },
+  {
+    "sensorId": "sensor-2966",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.52",
+    "humidity": "62.90"
+  },
+  {
+    "sensorId": "sensor-4689",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.23",
+    "humidity": "56.50"
+  },
+  {
+    "sensorId": "sensor-5697",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.76",
+    "humidity": "57.23"
+  },
+  {
+    "sensorId": "sensor-5452",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.91",
+    "humidity": "64.14"
+  },
+  {
+    "sensorId": "sensor-8952",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.50",
+    "humidity": "64.28"
+  },
+  {
+    "sensorId": "sensor-3107",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.05",
+    "humidity": "64.85"
+  },
+  {
+    "sensorId": "sensor-7038",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.47",
+    "humidity": "64.06"
+  },
+  {
+    "sensorId": "sensor-5628",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.22",
+    "humidity": "57.92"
+  },
+  {
+    "sensorId": "sensor-9402",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.92",
+    "humidity": "59.61"
+  },
+  {
+    "sensorId": "sensor-4399",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.79",
+    "humidity": "63.64"
+  },
+  {
+    "sensorId": "sensor-9721",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.26",
+    "humidity": "57.82"
+  },
+  {
+    "sensorId": "sensor-6146",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.21",
+    "humidity": "62.51"
+  },
+  {
+    "sensorId": "sensor-6534",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.86",
+    "humidity": "61.68"
+  },
+  {
+    "sensorId": "sensor-3437",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.10",
+    "humidity": "64.58"
+  },
+  {
+    "sensorId": "sensor-361",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.73",
+    "humidity": "61.27"
+  },
+  {
+    "sensorId": "sensor-4697",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.18",
+    "humidity": "61.38"
+  },
+  {
+    "sensorId": "sensor-6498",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.90",
+    "humidity": "62.68"
+  },
+  {
+    "sensorId": "sensor-854",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.11",
+    "humidity": "59.89"
+  },
+  {
+    "sensorId": "sensor-1818",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.46",
+    "humidity": "63.58"
+  },
+  {
+    "sensorId": "sensor-9801",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.79",
+    "humidity": "62.31"
+  },
+  {
+    "sensorId": "sensor-2708",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.25",
+    "humidity": "57.73"
+  },
+  {
+    "sensorId": "sensor-8920",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.48",
+    "humidity": "63.29"
+  },
+  {
+    "sensorId": "sensor-155",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.95",
+    "humidity": "57.09"
+  },
+  {
+    "sensorId": "sensor-8549",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.85",
+    "humidity": "58.96"
+  },
+  {
+    "sensorId": "sensor-1820",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.61",
+    "humidity": "63.35"
+  },
+  {
+    "sensorId": "sensor-3521",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.30",
+    "humidity": "64.09"
+  },
+  {
+    "sensorId": "sensor-1065",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.89",
+    "humidity": "62.75"
+  },
+  {
+    "sensorId": "sensor-3949",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.40",
+    "humidity": "60.37"
+  },
+  {
+    "sensorId": "sensor-6257",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.38",
+    "humidity": "61.94"
+  },
+  {
+    "sensorId": "sensor-6014",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.56",
+    "humidity": "61.00"
+  },
+  {
+    "sensorId": "sensor-9258",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.45",
+    "humidity": "61.48"
+  },
+  {
+    "sensorId": "sensor-6654",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.05",
+    "humidity": "62.19"
+  },
+  {
+    "sensorId": "sensor-7054",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.68",
+    "humidity": "57.25"
+  },
+  {
+    "sensorId": "sensor-7597",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.37",
+    "humidity": "59.71"
+  },
+  {
+    "sensorId": "sensor-9260",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.25",
+    "humidity": "64.42"
+  },
+  {
+    "sensorId": "sensor-5611",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.49",
+    "humidity": "56.76"
+  },
+  {
+    "sensorId": "sensor-6059",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.30",
+    "humidity": "62.93"
+  },
+  {
+    "sensorId": "sensor-4927",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.26",
+    "humidity": "62.74"
+  },
+  {
+    "sensorId": "sensor-3998",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.90",
+    "humidity": "55.36"
+  },
+  {
+    "sensorId": "sensor-3118",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.87",
+    "humidity": "56.51"
+  },
+  {
+    "sensorId": "sensor-6199",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.41",
+    "humidity": "61.73"
+  },
+  {
+    "sensorId": "sensor-4130",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.02",
+    "humidity": "63.05"
+  },
+  {
+    "sensorId": "sensor-2010",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.25",
+    "humidity": "56.31"
+  },
+  {
+    "sensorId": "sensor-8323",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.59",
+    "humidity": "56.74"
+  },
+  {
+    "sensorId": "sensor-6380",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.79",
+    "humidity": "55.95"
+  },
+  {
+    "sensorId": "sensor-6941",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.38",
+    "humidity": "64.87"
+  },
+  {
+    "sensorId": "sensor-6274",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.83",
+    "humidity": "62.39"
+  },
+  {
+    "sensorId": "sensor-2706",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.53",
+    "humidity": "55.21"
+  },
+  {
+    "sensorId": "sensor-8822",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.53",
+    "humidity": "62.72"
+  },
+  {
+    "sensorId": "sensor-3538",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.89",
+    "humidity": "63.00"
+  },
+  {
+    "sensorId": "sensor-8361",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.25",
+    "humidity": "59.12"
+  },
+  {
+    "sensorId": "sensor-5407",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.27",
+    "humidity": "59.88"
+  },
+  {
+    "sensorId": "sensor-4955",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.33",
+    "humidity": "64.45"
+  },
+  {
+    "sensorId": "sensor-3118",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.55",
+    "humidity": "55.56"
+  },
+  {
+    "sensorId": "sensor-3744",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.05",
+    "humidity": "63.84"
+  },
+  {
+    "sensorId": "sensor-5815",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.91",
+    "humidity": "57.11"
+  },
+  {
+    "sensorId": "sensor-5882",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.77",
+    "humidity": "63.19"
+  },
+  {
+    "sensorId": "sensor-543",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.62",
+    "humidity": "58.43"
+  },
+  {
+    "sensorId": "sensor-4455",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.61",
+    "humidity": "55.63"
+  },
+  {
+    "sensorId": "sensor-9738",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.13",
+    "humidity": "64.87"
+  },
+  {
+    "sensorId": "sensor-3566",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.58",
+    "humidity": "61.50"
+  },
+  {
+    "sensorId": "sensor-6603",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.04",
+    "humidity": "58.29"
+  },
+  {
+    "sensorId": "sensor-5665",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.29",
+    "humidity": "61.23"
+  },
+  {
+    "sensorId": "sensor-2339",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.81",
+    "humidity": "60.78"
+  },
+  {
+    "sensorId": "sensor-3323",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.12",
+    "humidity": "59.85"
+  },
+  {
+    "sensorId": "sensor-1207",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.32",
+    "humidity": "55.66"
+  },
+  {
+    "sensorId": "sensor-1570",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.86",
+    "humidity": "62.93"
+  },
+  {
+    "sensorId": "sensor-7179",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.99",
+    "humidity": "59.84"
+  },
+  {
+    "sensorId": "sensor-1029",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.45",
+    "humidity": "55.19"
+  },
+  {
+    "sensorId": "sensor-3645",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.81",
+    "humidity": "64.65"
+  },
+  {
+    "sensorId": "sensor-8233",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.30",
+    "humidity": "63.15"
+  },
+  {
+    "sensorId": "sensor-1721",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.64",
+    "humidity": "59.03"
+  },
+  {
+    "sensorId": "sensor-2967",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.09",
+    "humidity": "57.12"
+  },
+  {
+    "sensorId": "sensor-3635",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.63",
+    "humidity": "61.72"
+  },
+  {
+    "sensorId": "sensor-9188",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.55",
+    "humidity": "64.02"
+  },
+  {
+    "sensorId": "sensor-203",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.74",
+    "humidity": "59.52"
+  },
+  {
+    "sensorId": "sensor-2886",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.06",
+    "humidity": "61.79"
+  },
+  {
+    "sensorId": "sensor-4287",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.10",
+    "humidity": "57.97"
+  },
+  {
+    "sensorId": "sensor-5295",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.66",
+    "humidity": "57.38"
+  },
+  {
+    "sensorId": "sensor-1532",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.78",
+    "humidity": "59.57"
+  },
+  {
+    "sensorId": "sensor-1296",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.44",
+    "humidity": "62.82"
+  },
+  {
+    "sensorId": "sensor-472",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.72",
+    "humidity": "63.89"
+  },
+  {
+    "sensorId": "sensor-2986",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.83",
+    "humidity": "57.80"
+  },
+  {
+    "sensorId": "sensor-4836",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.32",
+    "humidity": "61.93"
+  },
+  {
+    "sensorId": "sensor-4005",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.61",
+    "humidity": "56.64"
+  },
+  {
+    "sensorId": "sensor-1195",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.61",
+    "humidity": "60.75"
+  },
+  {
+    "sensorId": "sensor-4625",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.94",
+    "humidity": "63.14"
+  },
+  {
+    "sensorId": "sensor-9635",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.98",
+    "humidity": "60.79"
+  },
+  {
+    "sensorId": "sensor-3795",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.03",
+    "humidity": "59.26"
+  },
+  {
+    "sensorId": "sensor-6552",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.87",
+    "humidity": "58.47"
+  },
+  {
+    "sensorId": "sensor-2813",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.62",
+    "humidity": "60.11"
+  },
+  {
+    "sensorId": "sensor-3422",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.45",
+    "humidity": "55.61"
+  },
+  {
+    "sensorId": "sensor-3992",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.22",
+    "humidity": "55.41"
+  },
+  {
+    "sensorId": "sensor-3307",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.46",
+    "humidity": "59.57"
+  },
+  {
+    "sensorId": "sensor-1759",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.75",
+    "humidity": "59.00"
+  },
+  {
+    "sensorId": "sensor-6426",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.52",
+    "humidity": "58.97"
+  },
+  {
+    "sensorId": "sensor-9635",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.42",
+    "humidity": "56.76"
+  },
+  {
+    "sensorId": "sensor-2435",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.75",
+    "humidity": "62.21"
+  },
+  {
+    "sensorId": "sensor-4763",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.78",
+    "humidity": "59.48"
+  },
+  {
+    "sensorId": "sensor-8084",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.61",
+    "humidity": "61.81"
+  },
+  {
+    "sensorId": "sensor-3298",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.29",
+    "humidity": "61.25"
+  },
+  {
+    "sensorId": "sensor-9414",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.83",
+    "humidity": "59.32"
+  },
+  {
+    "sensorId": "sensor-7294",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.65",
+    "humidity": "59.55"
+  },
+  {
+    "sensorId": "sensor-6338",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.60",
+    "humidity": "63.61"
+  },
+  {
+    "sensorId": "sensor-6355",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.37",
+    "humidity": "64.85"
+  },
+  {
+    "sensorId": "sensor-2040",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.32",
+    "humidity": "59.26"
+  },
+  {
+    "sensorId": "sensor-7480",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.06",
+    "humidity": "61.07"
+  },
+  {
+    "sensorId": "sensor-7195",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.01",
+    "humidity": "56.27"
+  },
+  {
+    "sensorId": "sensor-9969",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.66",
+    "humidity": "56.84"
+  },
+  {
+    "sensorId": "sensor-2818",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.90",
+    "humidity": "62.20"
+  },
+  {
+    "sensorId": "sensor-8275",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.39",
+    "humidity": "58.28"
+  },
+  {
+    "sensorId": "sensor-2395",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.07",
+    "humidity": "59.48"
+  },
+  {
+    "sensorId": "sensor-8317",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.97",
+    "humidity": "56.87"
+  },
+  {
+    "sensorId": "sensor-9407",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.27",
+    "humidity": "64.81"
+  },
+  {
+    "sensorId": "sensor-6650",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.39",
+    "humidity": "59.26"
+  },
+  {
+    "sensorId": "sensor-6214",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.18",
+    "humidity": "59.19"
+  },
+  {
+    "sensorId": "sensor-7685",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.72",
+    "humidity": "56.17"
+  },
+  {
+    "sensorId": "sensor-4364",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.84",
+    "humidity": "64.60"
+  },
+  {
+    "sensorId": "sensor-2021",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.90",
+    "humidity": "63.71"
+  },
+  {
+    "sensorId": "sensor-3646",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.06",
+    "humidity": "59.46"
+  },
+  {
+    "sensorId": "sensor-7355",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.81",
+    "humidity": "58.46"
+  },
+  {
+    "sensorId": "sensor-1876",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.41",
+    "humidity": "59.43"
+  },
+  {
+    "sensorId": "sensor-8161",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.20",
+    "humidity": "55.93"
+  },
+  {
+    "sensorId": "sensor-9704",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.03",
+    "humidity": "62.53"
+  },
+  {
+    "sensorId": "sensor-6291",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.56",
+    "humidity": "56.30"
+  },
+  {
+    "sensorId": "sensor-3869",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.04",
+    "humidity": "57.91"
+  },
+  {
+    "sensorId": "sensor-2227",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.53",
+    "humidity": "64.90"
+  },
+  {
+    "sensorId": "sensor-7792",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.17",
+    "humidity": "60.35"
+  },
+  {
+    "sensorId": "sensor-6301",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.52",
+    "humidity": "64.89"
+  },
+  {
+    "sensorId": "sensor-4512",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.13",
+    "humidity": "55.37"
+  },
+  {
+    "sensorId": "sensor-186",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.82",
+    "humidity": "61.62"
+  },
+  {
+    "sensorId": "sensor-7007",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.87",
+    "humidity": "57.77"
+  },
+  {
+    "sensorId": "sensor-8196",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.32",
+    "humidity": "59.36"
+  },
+  {
+    "sensorId": "sensor-2556",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.15",
+    "humidity": "62.16"
+  },
+  {
+    "sensorId": "sensor-7243",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.03",
+    "humidity": "55.72"
+  },
+  {
+    "sensorId": "sensor-5945",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.06",
+    "humidity": "58.40"
+  },
+  {
+    "sensorId": "sensor-7683",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.18",
+    "humidity": "58.71"
+  },
+  {
+    "sensorId": "sensor-5225",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.75",
+    "humidity": "62.79"
+  },
+  {
+    "sensorId": "sensor-4815",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.86",
+    "humidity": "58.66"
+  },
+  {
+    "sensorId": "sensor-7559",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.78",
+    "humidity": "60.75"
+  },
+  {
+    "sensorId": "sensor-9578",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.41",
+    "humidity": "64.61"
+  },
+  {
+    "sensorId": "sensor-6326",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.08",
+    "humidity": "63.15"
+  },
+  {
+    "sensorId": "sensor-301",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.18",
+    "humidity": "57.06"
+  },
+  {
+    "sensorId": "sensor-4794",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.48",
+    "humidity": "61.89"
+  },
+  {
+    "sensorId": "sensor-4928",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.47",
+    "humidity": "59.17"
+  },
+  {
+    "sensorId": "sensor-4937",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.23",
+    "humidity": "62.64"
+  },
+  {
+    "sensorId": "sensor-2902",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.88",
+    "humidity": "63.23"
+  },
+  {
+    "sensorId": "sensor-9818",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.71",
+    "humidity": "55.79"
+  },
+  {
+    "sensorId": "sensor-2357",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.59",
+    "humidity": "60.29"
+  },
+  {
+    "sensorId": "sensor-3582",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.10",
+    "humidity": "63.54"
+  },
+  {
+    "sensorId": "sensor-9060",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.58",
+    "humidity": "63.80"
+  },
+  {
+    "sensorId": "sensor-8350",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.14",
+    "humidity": "57.21"
+  },
+  {
+    "sensorId": "sensor-1858",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.89",
+    "humidity": "64.93"
+  },
+  {
+    "sensorId": "sensor-8261",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.16",
+    "humidity": "62.87"
+  },
+  {
+    "sensorId": "sensor-5615",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.44",
+    "humidity": "60.40"
+  },
+  {
+    "sensorId": "sensor-2098",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.71",
+    "humidity": "62.42"
+  },
+  {
+    "sensorId": "sensor-9738",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.51",
+    "humidity": "59.15"
+  },
+  {
+    "sensorId": "sensor-1365",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.59",
+    "humidity": "63.04"
+  },
+  {
+    "sensorId": "sensor-475",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.12",
+    "humidity": "56.98"
+  },
+  {
+    "sensorId": "sensor-4380",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.07",
+    "humidity": "58.06"
+  },
+  {
+    "sensorId": "sensor-581",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.94",
+    "humidity": "56.08"
+  },
+  {
+    "sensorId": "sensor-7023",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.01",
+    "humidity": "63.37"
+  },
+  {
+    "sensorId": "sensor-9797",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.07",
+    "humidity": "56.95"
+  },
+  {
+    "sensorId": "sensor-5519",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.32",
+    "humidity": "62.33"
+  },
+  {
+    "sensorId": "sensor-5347",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.33",
+    "humidity": "57.54"
+  },
+  {
+    "sensorId": "sensor-2000",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.03",
+    "humidity": "57.86"
+  },
+  {
+    "sensorId": "sensor-9930",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.12",
+    "humidity": "57.44"
+  },
+  {
+    "sensorId": "sensor-9773",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.44",
+    "humidity": "60.84"
+  },
+  {
+    "sensorId": "sensor-3096",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.30",
+    "humidity": "59.27"
+  },
+  {
+    "sensorId": "sensor-231",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.92",
+    "humidity": "57.78"
+  },
+  {
+    "sensorId": "sensor-5793",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.11",
+    "humidity": "59.11"
+  },
+  {
+    "sensorId": "sensor-8453",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.83",
+    "humidity": "64.37"
+  },
+  {
+    "sensorId": "sensor-2827",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.91",
+    "humidity": "58.40"
+  },
+  {
+    "sensorId": "sensor-1548",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.15",
+    "humidity": "63.06"
+  },
+  {
+    "sensorId": "sensor-9889",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.59",
+    "humidity": "55.78"
+  },
+  {
+    "sensorId": "sensor-6333",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.98",
+    "humidity": "55.73"
+  },
+  {
+    "sensorId": "sensor-3922",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.62",
+    "humidity": "55.71"
+  },
+  {
+    "sensorId": "sensor-2402",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.67",
+    "humidity": "58.79"
+  },
+  {
+    "sensorId": "sensor-6088",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.67",
+    "humidity": "59.36"
+  },
+  {
+    "sensorId": "sensor-1761",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.55",
+    "humidity": "63.69"
+  },
+  {
+    "sensorId": "sensor-7820",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.23",
+    "humidity": "55.35"
+  },
+  {
+    "sensorId": "sensor-706",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.75",
+    "humidity": "59.36"
+  },
+  {
+    "sensorId": "sensor-4635",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.78",
+    "humidity": "62.97"
+  },
+  {
+    "sensorId": "sensor-8751",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.18",
+    "humidity": "62.22"
+  },
+  {
+    "sensorId": "sensor-3351",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.03",
+    "humidity": "59.04"
+  },
+  {
+    "sensorId": "sensor-1648",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.83",
+    "humidity": "57.97"
+  },
+  {
+    "sensorId": "sensor-2304",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.38",
+    "humidity": "59.34"
+  },
+  {
+    "sensorId": "sensor-7362",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.48",
+    "humidity": "58.18"
+  },
+  {
+    "sensorId": "sensor-5221",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.10",
+    "humidity": "63.45"
+  },
+  {
+    "sensorId": "sensor-2820",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.17",
+    "humidity": "55.08"
+  },
+  {
+    "sensorId": "sensor-5801",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.62",
+    "humidity": "59.76"
+  },
+  {
+    "sensorId": "sensor-2358",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.14",
+    "humidity": "63.73"
+  },
+  {
+    "sensorId": "sensor-2362",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.31",
+    "humidity": "63.66"
+  },
+  {
+    "sensorId": "sensor-7089",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.23",
+    "humidity": "59.17"
+  },
+  {
+    "sensorId": "sensor-3795",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.94",
+    "humidity": "55.80"
+  },
+  {
+    "sensorId": "sensor-9992",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.79",
+    "humidity": "61.87"
+  },
+  {
+    "sensorId": "sensor-7384",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.17",
+    "humidity": "63.96"
+  },
+  {
+    "sensorId": "sensor-4757",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.08",
+    "humidity": "62.41"
+  },
+  {
+    "sensorId": "sensor-9588",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.90",
+    "humidity": "63.06"
+  },
+  {
+    "sensorId": "sensor-7293",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.02",
+    "humidity": "57.46"
+  },
+  {
+    "sensorId": "sensor-6410",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.31",
+    "humidity": "55.96"
+  },
+  {
+    "sensorId": "sensor-7181",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.16",
+    "humidity": "58.90"
+  },
+  {
+    "sensorId": "sensor-7812",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.71",
+    "humidity": "58.80"
+  },
+  {
+    "sensorId": "sensor-2693",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.68",
+    "humidity": "60.94"
+  },
+  {
+    "sensorId": "sensor-582",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.70",
+    "humidity": "64.33"
+  },
+  {
+    "sensorId": "sensor-7026",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.20",
+    "humidity": "64.68"
+  },
+  {
+    "sensorId": "sensor-9559",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.16",
+    "humidity": "61.24"
+  },
+  {
+    "sensorId": "sensor-9598",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.71",
+    "humidity": "58.87"
+  },
+  {
+    "sensorId": "sensor-2764",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.71",
+    "humidity": "60.65"
+  },
+  {
+    "sensorId": "sensor-4385",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.63",
+    "humidity": "63.17"
+  },
+  {
+    "sensorId": "sensor-5155",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.27",
+    "humidity": "64.16"
+  },
+  {
+    "sensorId": "sensor-8098",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.14",
+    "humidity": "56.19"
+  },
+  {
+    "sensorId": "sensor-2951",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.20",
+    "humidity": "57.11"
+  },
+  {
+    "sensorId": "sensor-3449",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.69",
+    "humidity": "56.68"
+  },
+  {
+    "sensorId": "sensor-318",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.61",
+    "humidity": "62.07"
+  },
+  {
+    "sensorId": "sensor-2776",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.12",
+    "humidity": "60.41"
+  },
+  {
+    "sensorId": "sensor-3565",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.63",
+    "humidity": "63.69"
+  },
+  {
+    "sensorId": "sensor-885",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.19",
+    "humidity": "61.19"
+  },
+  {
+    "sensorId": "sensor-5532",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.08",
+    "humidity": "57.15"
+  },
+  {
+    "sensorId": "sensor-9311",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.45",
+    "humidity": "55.24"
+  },
+  {
+    "sensorId": "sensor-7338",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.31",
+    "humidity": "60.87"
+  },
+  {
+    "sensorId": "sensor-3209",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.67",
+    "humidity": "63.87"
+  },
+  {
+    "sensorId": "sensor-306",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.68",
+    "humidity": "57.87"
+  },
+  {
+    "sensorId": "sensor-3750",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.28",
+    "humidity": "57.86"
+  },
+  {
+    "sensorId": "sensor-3352",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.10",
+    "humidity": "60.33"
+  },
+  {
+    "sensorId": "sensor-469",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.19",
+    "humidity": "58.42"
+  },
+  {
+    "sensorId": "sensor-4994",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.78",
+    "humidity": "55.57"
+  },
+  {
+    "sensorId": "sensor-7272",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.44",
+    "humidity": "59.96"
+  },
+  {
+    "sensorId": "sensor-6537",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.91",
+    "humidity": "55.05"
+  },
+  {
+    "sensorId": "sensor-7459",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.65",
+    "humidity": "58.94"
+  },
+  {
+    "sensorId": "sensor-6995",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.34",
+    "humidity": "61.81"
+  },
+  {
+    "sensorId": "sensor-8098",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.09",
+    "humidity": "64.69"
+  },
+  {
+    "sensorId": "sensor-5746",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.28",
+    "humidity": "57.77"
+  },
+  {
+    "sensorId": "sensor-9056",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.82",
+    "humidity": "59.97"
+  },
+  {
+    "sensorId": "sensor-4006",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.18",
+    "humidity": "57.30"
+  },
+  {
+    "sensorId": "sensor-5957",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.46",
+    "humidity": "56.52"
+  },
+  {
+    "sensorId": "sensor-4576",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.67",
+    "humidity": "59.07"
+  },
+  {
+    "sensorId": "sensor-8804",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.94",
+    "humidity": "56.99"
+  },
+  {
+    "sensorId": "sensor-4885",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.50",
+    "humidity": "58.94"
+  },
+  {
+    "sensorId": "sensor-4696",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.87",
+    "humidity": "63.94"
+  },
+  {
+    "sensorId": "sensor-3564",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.17",
+    "humidity": "57.83"
+  },
+  {
+    "sensorId": "sensor-8457",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.90",
+    "humidity": "59.68"
+  },
+  {
+    "sensorId": "sensor-2881",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.37",
+    "humidity": "61.51"
+  },
+  {
+    "sensorId": "sensor-3939",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.77",
+    "humidity": "57.59"
+  },
+  {
+    "sensorId": "sensor-719",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.57",
+    "humidity": "61.18"
+  },
+  {
+    "sensorId": "sensor-4563",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.28",
+    "humidity": "57.32"
+  },
+  {
+    "sensorId": "sensor-1981",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.60",
+    "humidity": "59.08"
+  },
+  {
+    "sensorId": "sensor-8155",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.81",
+    "humidity": "55.93"
+  },
+  {
+    "sensorId": "sensor-379",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.49",
+    "humidity": "64.74"
+  },
+  {
+    "sensorId": "sensor-9147",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.55",
+    "humidity": "56.84"
+  },
+  {
+    "sensorId": "sensor-2841",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.18",
+    "humidity": "59.86"
+  },
+  {
+    "sensorId": "sensor-9157",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.45",
+    "humidity": "58.70"
+  },
+  {
+    "sensorId": "sensor-5868",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.44",
+    "humidity": "56.95"
+  },
+  {
+    "sensorId": "sensor-5233",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.51",
+    "humidity": "57.64"
+  },
+  {
+    "sensorId": "sensor-4002",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.74",
+    "humidity": "57.47"
+  },
+  {
+    "sensorId": "sensor-4734",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.13",
+    "humidity": "64.47"
+  },
+  {
+    "sensorId": "sensor-5514",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.39",
+    "humidity": "55.25"
+  },
+  {
+    "sensorId": "sensor-1506",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.83",
+    "humidity": "60.79"
+  },
+  {
+    "sensorId": "sensor-8219",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.12",
+    "humidity": "61.16"
+  },
+  {
+    "sensorId": "sensor-3515",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.26",
+    "humidity": "63.80"
+  },
+  {
+    "sensorId": "sensor-3779",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.33",
+    "humidity": "58.82"
+  },
+  {
+    "sensorId": "sensor-313",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.38",
+    "humidity": "63.38"
+  },
+  {
+    "sensorId": "sensor-2141",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.34",
+    "humidity": "60.12"
+  },
+  {
+    "sensorId": "sensor-7635",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.61",
+    "humidity": "56.46"
+  },
+  {
+    "sensorId": "sensor-2847",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.72",
+    "humidity": "55.74"
+  },
+  {
+    "sensorId": "sensor-6041",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.96",
+    "humidity": "62.41"
+  },
+  {
+    "sensorId": "sensor-9560",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.96",
+    "humidity": "61.30"
+  },
+  {
+    "sensorId": "sensor-3891",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.75",
+    "humidity": "58.96"
+  },
+  {
+    "sensorId": "sensor-897",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.97",
+    "humidity": "55.76"
+  },
+  {
+    "sensorId": "sensor-8023",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.70",
+    "humidity": "58.04"
+  },
+  {
+    "sensorId": "sensor-1787",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.21",
+    "humidity": "57.22"
+  },
+  {
+    "sensorId": "sensor-4385",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.00",
+    "humidity": "57.61"
+  },
+  {
+    "sensorId": "sensor-8955",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.47",
+    "humidity": "63.73"
+  },
+  {
+    "sensorId": "sensor-9962",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.09",
+    "humidity": "58.48"
+  },
+  {
+    "sensorId": "sensor-6439",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.10",
+    "humidity": "59.31"
+  },
+  {
+    "sensorId": "sensor-3266",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.79",
+    "humidity": "56.76"
+  },
+  {
+    "sensorId": "sensor-9028",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.97",
+    "humidity": "55.37"
+  },
+  {
+    "sensorId": "sensor-416",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.48",
+    "humidity": "62.43"
+  },
+  {
+    "sensorId": "sensor-9729",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.24",
+    "humidity": "58.98"
+  },
+  {
+    "sensorId": "sensor-8029",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.78",
+    "humidity": "57.20"
+  },
+  {
+    "sensorId": "sensor-4921",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.97",
+    "humidity": "58.34"
+  },
+  {
+    "sensorId": "sensor-8341",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.43",
+    "humidity": "57.87"
+  },
+  {
+    "sensorId": "sensor-5394",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.87",
+    "humidity": "61.25"
+  },
+  {
+    "sensorId": "sensor-6350",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.44",
+    "humidity": "57.60"
+  },
+  {
+    "sensorId": "sensor-9094",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.17",
+    "humidity": "63.15"
+  },
+  {
+    "sensorId": "sensor-7514",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "25.00",
+    "humidity": "59.91"
+  },
+  {
+    "sensorId": "sensor-6930",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.85",
+    "humidity": "64.82"
+  },
+  {
+    "sensorId": "sensor-4796",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.55",
+    "humidity": "57.52"
+  },
+  {
+    "sensorId": "sensor-1998",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.17",
+    "humidity": "61.57"
+  },
+  {
+    "sensorId": "sensor-9880",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.02",
+    "humidity": "62.72"
+  },
+  {
+    "sensorId": "sensor-6039",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.96",
+    "humidity": "63.70"
+  },
+  {
+    "sensorId": "sensor-4291",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.29",
+    "humidity": "62.43"
+  },
+  {
+    "sensorId": "sensor-3879",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.70",
+    "humidity": "56.34"
+  },
+  {
+    "sensorId": "sensor-4109",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.83",
+    "humidity": "58.57"
+  },
+  {
+    "sensorId": "sensor-8624",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.18",
+    "humidity": "60.30"
+  },
+  {
+    "sensorId": "sensor-8683",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.66",
+    "humidity": "57.01"
+  },
+  {
+    "sensorId": "sensor-1935",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.76",
+    "humidity": "61.45"
+  },
+  {
+    "sensorId": "sensor-2269",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.96",
+    "humidity": "58.78"
+  },
+  {
+    "sensorId": "sensor-9269",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.26",
+    "humidity": "64.58"
+  },
+  {
+    "sensorId": "sensor-2685",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.03",
+    "humidity": "58.88"
+  },
+  {
+    "sensorId": "sensor-7107",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.91",
+    "humidity": "62.30"
+  },
+  {
+    "sensorId": "sensor-7918",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.16",
+    "humidity": "55.92"
+  },
+  {
+    "sensorId": "sensor-5559",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.48",
+    "humidity": "56.89"
+  },
+  {
+    "sensorId": "sensor-5390",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.12",
+    "humidity": "64.56"
+  },
+  {
+    "sensorId": "sensor-4554",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.74",
+    "humidity": "64.19"
+  },
+  {
+    "sensorId": "sensor-71",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.04",
+    "humidity": "64.56"
+  },
+  {
+    "sensorId": "sensor-2923",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.73",
+    "humidity": "63.47"
+  },
+  {
+    "sensorId": "sensor-1657",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.89",
+    "humidity": "61.05"
+  },
+  {
+    "sensorId": "sensor-5302",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.24",
+    "humidity": "56.52"
+  },
+  {
+    "sensorId": "sensor-1008",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.11",
+    "humidity": "63.30"
+  },
+  {
+    "sensorId": "sensor-5587",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.10",
+    "humidity": "59.41"
+  },
+  {
+    "sensorId": "sensor-6574",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.47",
+    "humidity": "64.09"
+  },
+  {
+    "sensorId": "sensor-943",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.45",
+    "humidity": "62.02"
+  },
+  {
+    "sensorId": "sensor-6985",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.06",
+    "humidity": "57.11"
+  },
+  {
+    "sensorId": "sensor-497",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.75",
+    "humidity": "61.75"
+  },
+  {
+    "sensorId": "sensor-6560",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.37",
+    "humidity": "56.92"
+  },
+  {
+    "sensorId": "sensor-6186",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.55",
+    "humidity": "59.67"
+  },
+  {
+    "sensorId": "sensor-5295",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.04",
+    "humidity": "63.67"
+  },
+  {
+    "sensorId": "sensor-7095",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.71",
+    "humidity": "56.78"
+  },
+  {
+    "sensorId": "sensor-7212",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.45",
+    "humidity": "60.44"
+  },
+  {
+    "sensorId": "sensor-2412",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.87",
+    "humidity": "64.60"
+  },
+  {
+    "sensorId": "sensor-4390",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.60",
+    "humidity": "58.17"
+  },
+  {
+    "sensorId": "sensor-9313",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.38",
+    "humidity": "61.35"
+  },
+  {
+    "sensorId": "sensor-8538",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.64",
+    "humidity": "55.08"
+  },
+  {
+    "sensorId": "sensor-4754",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.02",
+    "humidity": "61.94"
+  },
+  {
+    "sensorId": "sensor-6481",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.63",
+    "humidity": "61.43"
+  },
+  {
+    "sensorId": "sensor-1805",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.02",
+    "humidity": "60.46"
+  },
+  {
+    "sensorId": "sensor-4262",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.46",
+    "humidity": "55.17"
+  },
+  {
+    "sensorId": "sensor-2389",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.47",
+    "humidity": "61.02"
+  },
+  {
+    "sensorId": "sensor-7506",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.23",
+    "humidity": "64.99"
+  },
+  {
+    "sensorId": "sensor-7668",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.87",
+    "humidity": "64.65"
+  },
+  {
+    "sensorId": "sensor-309",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.29",
+    "humidity": "63.51"
+  },
+  {
+    "sensorId": "sensor-1955",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.15",
+    "humidity": "61.88"
+  },
+  {
+    "sensorId": "sensor-9815",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.51",
+    "humidity": "57.63"
+  },
+  {
+    "sensorId": "sensor-6199",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.08",
+    "humidity": "57.80"
+  },
+  {
+    "sensorId": "sensor-49",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.67",
+    "humidity": "59.65"
+  },
+  {
+    "sensorId": "sensor-2868",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.60",
+    "humidity": "57.52"
+  },
+  {
+    "sensorId": "sensor-7763",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.47",
+    "humidity": "62.17"
+  },
+  {
+    "sensorId": "sensor-1417",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.46",
+    "humidity": "59.91"
+  },
+  {
+    "sensorId": "sensor-847",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.72",
+    "humidity": "56.26"
+  },
+  {
+    "sensorId": "sensor-6063",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.84",
+    "humidity": "58.27"
+  },
+  {
+    "sensorId": "sensor-7586",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.46",
+    "humidity": "56.89"
+  },
+  {
+    "sensorId": "sensor-583",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.97",
+    "humidity": "64.08"
+  },
+  {
+    "sensorId": "sensor-142",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.84",
+    "humidity": "62.08"
+  },
+  {
+    "sensorId": "sensor-9466",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.82",
+    "humidity": "60.96"
+  },
+  {
+    "sensorId": "sensor-6553",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.99",
+    "humidity": "60.04"
+  },
+  {
+    "sensorId": "sensor-2489",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.15",
+    "humidity": "58.58"
+  },
+  {
+    "sensorId": "sensor-1452",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.05",
+    "humidity": "63.68"
+  },
+  {
+    "sensorId": "sensor-7371",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.88",
+    "humidity": "56.94"
+  },
+  {
+    "sensorId": "sensor-2527",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.61",
+    "humidity": "55.68"
+  },
+  {
+    "sensorId": "sensor-4619",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.06",
+    "humidity": "63.74"
+  },
+  {
+    "sensorId": "sensor-517",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.58",
+    "humidity": "60.12"
+  },
+  {
+    "sensorId": "sensor-5565",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.09",
+    "humidity": "58.91"
+  },
+  {
+    "sensorId": "sensor-1192",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.63",
+    "humidity": "63.49"
+  },
+  {
+    "sensorId": "sensor-5965",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.54",
+    "humidity": "63.60"
+  },
+  {
+    "sensorId": "sensor-6061",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.93",
+    "humidity": "55.96"
+  },
+  {
+    "sensorId": "sensor-4136",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.43",
+    "humidity": "59.59"
+  },
+  {
+    "sensorId": "sensor-5284",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.08",
+    "humidity": "60.63"
+  },
+  {
+    "sensorId": "sensor-304",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.28",
+    "humidity": "62.88"
+  },
+  {
+    "sensorId": "sensor-2353",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.13",
+    "humidity": "58.14"
+  },
+  {
+    "sensorId": "sensor-6670",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.43",
+    "humidity": "57.91"
+  },
+  {
+    "sensorId": "sensor-3035",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.57",
+    "humidity": "62.12"
+  },
+  {
+    "sensorId": "sensor-5483",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.14",
+    "humidity": "55.44"
+  },
+  {
+    "sensorId": "sensor-2969",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.80",
+    "humidity": "58.59"
+  },
+  {
+    "sensorId": "sensor-5625",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.35",
+    "humidity": "59.46"
+  },
+  {
+    "sensorId": "sensor-1241",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.37",
+    "humidity": "59.74"
+  },
+  {
+    "sensorId": "sensor-4882",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "25.00",
+    "humidity": "58.46"
+  },
+  {
+    "sensorId": "sensor-3857",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.12",
+    "humidity": "63.87"
+  },
+  {
+    "sensorId": "sensor-6181",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.01",
+    "humidity": "57.26"
+  },
+  {
+    "sensorId": "sensor-3255",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.71",
+    "humidity": "62.73"
+  },
+  {
+    "sensorId": "sensor-9600",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.98",
+    "humidity": "55.62"
+  },
+  {
+    "sensorId": "sensor-8516",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.76",
+    "humidity": "57.52"
+  },
+  {
+    "sensorId": "sensor-9877",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.76",
+    "humidity": "55.52"
+  },
+  {
+    "sensorId": "sensor-5533",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.79",
+    "humidity": "55.89"
+  },
+  {
+    "sensorId": "sensor-8333",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.42",
+    "humidity": "59.85"
+  },
+  {
+    "sensorId": "sensor-6242",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.31",
+    "humidity": "58.81"
+  },
+  {
+    "sensorId": "sensor-6349",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.65",
+    "humidity": "60.82"
+  },
+  {
+    "sensorId": "sensor-6548",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.99",
+    "humidity": "58.66"
+  },
+  {
+    "sensorId": "sensor-74",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.84",
+    "humidity": "61.63"
+  },
+  {
+    "sensorId": "sensor-2587",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.61",
+    "humidity": "64.92"
+  },
+  {
+    "sensorId": "sensor-8620",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.91",
+    "humidity": "59.66"
+  },
+  {
+    "sensorId": "sensor-3686",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.89",
+    "humidity": "55.47"
+  },
+  {
+    "sensorId": "sensor-7722",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.67",
+    "humidity": "60.17"
+  },
+  {
+    "sensorId": "sensor-8065",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.59",
+    "humidity": "63.90"
+  },
+  {
+    "sensorId": "sensor-6588",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.27",
+    "humidity": "63.54"
+  },
+  {
+    "sensorId": "sensor-7345",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.30",
+    "humidity": "59.36"
+  },
+  {
+    "sensorId": "sensor-9680",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.21",
+    "humidity": "61.22"
+  },
+  {
+    "sensorId": "sensor-8597",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.88",
+    "humidity": "57.82"
+  },
+  {
+    "sensorId": "sensor-9601",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.95",
+    "humidity": "62.88"
+  },
+  {
+    "sensorId": "sensor-3318",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.65",
+    "humidity": "60.21"
+  },
+  {
+    "sensorId": "sensor-278",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.44",
+    "humidity": "59.61"
+  },
+  {
+    "sensorId": "sensor-6766",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.61",
+    "humidity": "58.31"
+  },
+  {
+    "sensorId": "sensor-4609",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.60",
+    "humidity": "63.86"
+  },
+  {
+    "sensorId": "sensor-8057",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.05",
+    "humidity": "62.90"
+  },
+  {
+    "sensorId": "sensor-322",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.98",
+    "humidity": "60.53"
+  },
+  {
+    "sensorId": "sensor-8894",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.71",
+    "humidity": "59.78"
+  },
+  {
+    "sensorId": "sensor-8769",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.93",
+    "humidity": "60.53"
+  },
+  {
+    "sensorId": "sensor-5335",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.39",
+    "humidity": "62.33"
+  },
+  {
+    "sensorId": "sensor-3402",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.49",
+    "humidity": "60.22"
+  },
+  {
+    "sensorId": "sensor-3556",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.10",
+    "humidity": "56.38"
+  },
+  {
+    "sensorId": "sensor-7960",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.05",
+    "humidity": "63.99"
+  },
+  {
+    "sensorId": "sensor-4902",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.54",
+    "humidity": "64.62"
+  },
+  {
+    "sensorId": "sensor-6837",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.60",
+    "humidity": "60.95"
+  },
+  {
+    "sensorId": "sensor-6674",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.32",
+    "humidity": "56.67"
+  },
+  {
+    "sensorId": "sensor-1566",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.29",
+    "humidity": "63.26"
+  },
+  {
+    "sensorId": "sensor-2828",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.00",
+    "humidity": "57.22"
+  },
+  {
+    "sensorId": "sensor-5034",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.11",
+    "humidity": "59.75"
+  },
+  {
+    "sensorId": "sensor-9889",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.97",
+    "humidity": "59.45"
+  },
+  {
+    "sensorId": "sensor-1529",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.83",
+    "humidity": "57.86"
+  },
+  {
+    "sensorId": "sensor-914",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.88",
+    "humidity": "60.65"
+  },
+  {
+    "sensorId": "sensor-1876",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.02",
+    "humidity": "62.08"
+  },
+  {
+    "sensorId": "sensor-7095",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.33",
+    "humidity": "55.75"
+  },
+  {
+    "sensorId": "sensor-8083",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.69",
+    "humidity": "61.11"
+  },
+  {
+    "sensorId": "sensor-96",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.27",
+    "humidity": "63.20"
+  },
+  {
+    "sensorId": "sensor-1041",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.08",
+    "humidity": "56.65"
+  },
+  {
+    "sensorId": "sensor-7644",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.67",
+    "humidity": "62.63"
+  },
+  {
+    "sensorId": "sensor-5841",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.00",
+    "humidity": "56.32"
+  },
+  {
+    "sensorId": "sensor-4111",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.84",
+    "humidity": "63.58"
+  },
+  {
+    "sensorId": "sensor-7530",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.56",
+    "humidity": "62.92"
+  },
+  {
+    "sensorId": "sensor-9978",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.24",
+    "humidity": "63.86"
+  },
+  {
+    "sensorId": "sensor-7231",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.64",
+    "humidity": "59.05"
+  },
+  {
+    "sensorId": "sensor-2354",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.97",
+    "humidity": "59.49"
+  },
+  {
+    "sensorId": "sensor-2469",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.85",
+    "humidity": "57.49"
+  },
+  {
+    "sensorId": "sensor-797",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.58",
+    "humidity": "64.61"
+  },
+  {
+    "sensorId": "sensor-7179",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.87",
+    "humidity": "57.80"
+  },
+  {
+    "sensorId": "sensor-5710",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.50",
+    "humidity": "60.15"
+  },
+  {
+    "sensorId": "sensor-197",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.16",
+    "humidity": "64.11"
+  },
+  {
+    "sensorId": "sensor-7670",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.14",
+    "humidity": "64.74"
+  },
+  {
+    "sensorId": "sensor-3663",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.70",
+    "humidity": "63.42"
+  },
+  {
+    "sensorId": "sensor-9338",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.98",
+    "humidity": "59.80"
+  },
+  {
+    "sensorId": "sensor-2514",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.46",
+    "humidity": "55.35"
+  },
+  {
+    "sensorId": "sensor-2618",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.09",
+    "humidity": "59.20"
+  },
+  {
+    "sensorId": "sensor-8522",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.68",
+    "humidity": "57.96"
+  },
+  {
+    "sensorId": "sensor-6649",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.99",
+    "humidity": "62.75"
+  },
+  {
+    "sensorId": "sensor-2180",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.69",
+    "humidity": "58.48"
+  },
+  {
+    "sensorId": "sensor-1751",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.20",
+    "humidity": "60.05"
+  },
+  {
+    "sensorId": "sensor-5341",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.13",
+    "humidity": "60.36"
+  },
+  {
+    "sensorId": "sensor-7473",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.63",
+    "humidity": "64.66"
+  },
+  {
+    "sensorId": "sensor-811",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.54",
+    "humidity": "64.68"
+  },
+  {
+    "sensorId": "sensor-8355",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.84",
+    "humidity": "60.48"
+  },
+  {
+    "sensorId": "sensor-3780",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.29",
+    "humidity": "59.94"
+  },
+  {
+    "sensorId": "sensor-3920",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.66",
+    "humidity": "62.48"
+  },
+  {
+    "sensorId": "sensor-6156",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.09",
+    "humidity": "58.01"
+  },
+  {
+    "sensorId": "sensor-2428",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.96",
+    "humidity": "55.04"
+  },
+  {
+    "sensorId": "sensor-2344",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.69",
+    "humidity": "60.00"
+  },
+  {
+    "sensorId": "sensor-4697",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.08",
+    "humidity": "55.91"
+  },
+  {
+    "sensorId": "sensor-1404",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.92",
+    "humidity": "59.38"
+  },
+  {
+    "sensorId": "sensor-2424",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.16",
+    "humidity": "60.91"
+  },
+  {
+    "sensorId": "sensor-1246",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.10",
+    "humidity": "61.36"
+  },
+  {
+    "sensorId": "sensor-4103",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.16",
+    "humidity": "57.40"
+  },
+  {
+    "sensorId": "sensor-2306",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.63",
+    "humidity": "57.56"
+  },
+  {
+    "sensorId": "sensor-3117",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.88",
+    "humidity": "56.56"
+  },
+  {
+    "sensorId": "sensor-5610",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.45",
+    "humidity": "56.72"
+  },
+  {
+    "sensorId": "sensor-1434",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.66",
+    "humidity": "63.94"
+  },
+  {
+    "sensorId": "sensor-4324",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.20",
+    "humidity": "61.36"
+  },
+  {
+    "sensorId": "sensor-6662",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.53",
+    "humidity": "58.42"
+  },
+  {
+    "sensorId": "sensor-2874",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.76",
+    "humidity": "64.47"
+  },
+  {
+    "sensorId": "sensor-1785",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.76",
+    "humidity": "56.45"
+  },
+  {
+    "sensorId": "sensor-3566",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.70",
+    "humidity": "62.39"
+  },
+  {
+    "sensorId": "sensor-9611",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.33",
+    "humidity": "63.03"
+  },
+  {
+    "sensorId": "sensor-9137",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.83",
+    "humidity": "56.02"
+  },
+  {
+    "sensorId": "sensor-3248",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.77",
+    "humidity": "63.22"
+  },
+  {
+    "sensorId": "sensor-5990",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.19",
+    "humidity": "55.33"
+  },
+  {
+    "sensorId": "sensor-4383",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.33",
+    "humidity": "59.98"
+  },
+  {
+    "sensorId": "sensor-782",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.48",
+    "humidity": "56.44"
+  },
+  {
+    "sensorId": "sensor-7310",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.18",
+    "humidity": "64.48"
+  },
+  {
+    "sensorId": "sensor-9847",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.87",
+    "humidity": "63.58"
+  },
+  {
+    "sensorId": "sensor-2379",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.44",
+    "humidity": "62.36"
+  },
+  {
+    "sensorId": "sensor-1423",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.59",
+    "humidity": "57.91"
+  },
+  {
+    "sensorId": "sensor-4342",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.99",
+    "humidity": "55.03"
+  },
+  {
+    "sensorId": "sensor-1851",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.49",
+    "humidity": "64.97"
+  },
+  {
+    "sensorId": "sensor-3634",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.83",
+    "humidity": "62.18"
+  },
+  {
+    "sensorId": "sensor-9737",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.58",
+    "humidity": "60.32"
+  },
+  {
+    "sensorId": "sensor-303",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.96",
+    "humidity": "56.67"
+  },
+  {
+    "sensorId": "sensor-6099",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.84",
+    "humidity": "62.83"
+  },
+  {
+    "sensorId": "sensor-2851",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.27",
+    "humidity": "55.09"
+  },
+  {
+    "sensorId": "sensor-1368",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.94",
+    "humidity": "55.21"
+  },
+  {
+    "sensorId": "sensor-5220",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.25",
+    "humidity": "64.73"
+  },
+  {
+    "sensorId": "sensor-7595",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.66",
+    "humidity": "62.09"
+  },
+  {
+    "sensorId": "sensor-9674",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.65",
+    "humidity": "56.08"
+  },
+  {
+    "sensorId": "sensor-1961",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.73",
+    "humidity": "64.44"
+  },
+  {
+    "sensorId": "sensor-4399",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.34",
+    "humidity": "63.34"
+  },
+  {
+    "sensorId": "sensor-6332",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.99",
+    "humidity": "60.76"
+  },
+  {
+    "sensorId": "sensor-824",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.39",
+    "humidity": "56.41"
+  },
+  {
+    "sensorId": "sensor-8802",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.35",
+    "humidity": "63.87"
+  },
+  {
+    "sensorId": "sensor-5568",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "23.22",
+    "humidity": "58.84"
+  },
+  {
+    "sensorId": "sensor-8586",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.36",
+    "humidity": "57.70"
+  },
+  {
+    "sensorId": "sensor-9335",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.00",
+    "humidity": "59.10"
+  },
+  {
+    "sensorId": "sensor-2776",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.79",
+    "humidity": "61.49"
+  },
+  {
+    "sensorId": "sensor-7633",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.41",
+    "humidity": "56.95"
+  },
+  {
+    "sensorId": "sensor-1477",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.34",
+    "humidity": "62.93"
+  },
+  {
+    "sensorId": "sensor-3729",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.26",
+    "humidity": "58.69"
+  },
+  {
+    "sensorId": "sensor-9913",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.29",
+    "humidity": "57.58"
+  },
+  {
+    "sensorId": "sensor-5266",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.52",
+    "humidity": "57.76"
+  },
+  {
+    "sensorId": "sensor-2573",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.00",
+    "humidity": "64.58"
+  },
+  {
+    "sensorId": "sensor-6455",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.11",
+    "humidity": "60.41"
+  },
+  {
+    "sensorId": "sensor-8775",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.53",
+    "humidity": "64.03"
+  },
+  {
+    "sensorId": "sensor-5611",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.61",
+    "humidity": "61.27"
+  },
+  {
+    "sensorId": "sensor-9678",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "21.11",
+    "humidity": "58.85"
+  },
+  {
+    "sensorId": "sensor-3980",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "22.38",
+    "humidity": "56.84"
+  },
+  {
+    "sensorId": "sensor-834",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "20.28",
+    "humidity": "62.53"
+  },
+  {
+    "sensorId": "sensor-1194",
+    "localTime": "1/26/2025, 7:01:31 PM",
+    "temperature": "24.85",
+    "humidity": "60.17"
+  }
+]
