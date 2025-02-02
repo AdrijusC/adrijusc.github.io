@@ -1,0 +1,12 @@
+Byla duom1.txt elementas ‘a‘ nėra sveikasis skaičius
+Byla duom1.txt elementas ‘15#‘ nėra sveikasis skaičius
+Byla duom1.txt elementas ‘Labai‘ nėra sveikasis skaičius
+Byla duom1.txt elementas ‘sunku‘ nėra sveikasis skaičius
+Byla duom3.txt elementas ‘8x‘ nėra sveikasis skaičius
+Byla duom3.txt elementas ‘2x‘ nėra sveikasis skaičius
+Byla duom5.txt elementas ‘AČIŪ‘ nėra sveikasis skaičius
+Byla duom5.txt elementas ‘5.8‘ nėra sveikasis skaičius
+Byla duom8.txt elementas ‘5x‘ nėra sveikasis skaičius
+Byla duom8.txt elementas ‘w‘ nėra sveikasis skaičius
+Byla duom8.txt elementas ‘Ą‘ nėra sveikasis skaičius
+Byla duom8.txt elementas ‘č‘ nėra sveikasis skaičius

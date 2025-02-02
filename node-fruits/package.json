@@ -1,5 +1,5 @@
 {
-  "name": "hotel",
+  "name": "fruits",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -9,13 +9,12 @@
   "author": "",
   "license": "ISC",
   "description": "",
-  "devDependencies": {
-    "nodemon": "^3.1.9"
-  },
   "dependencies": {
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
-    "mongoose": "^8.9.5",
-    "morgan": "^1.10.0"
+    "mongoose": "^8.9.6",
+    "morgan": "^1.10.0",
+    "node": "^23.7.0",
+    "nodemon": "^3.1.9"
   }
 }

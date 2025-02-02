@@ -1,0 +1,4 @@
+Suma: 7194
+Kiekis: 211
+Max: 1500, Max_kiekis: 1
+Min: -54, Min_kiekis: 1

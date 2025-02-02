@@ -1,13 +1,9 @@
 const express = require('express');
 const morgan = require('morgan');
-
-//Routes
-const hotelRouter = require('./routes/hotelRoutes');
+const jamRouter = require('./routes/jamRoutes');
 
 const app = express();
 app.use(morgan('dev'));
-
-
 app.use(express.json());
 
 app.use((req, res, next) => {
@@ -15,8 +11,6 @@ app.use((req, res, next) => {
     next();
 });
 
-
-app.use('/api/v1/hotels', hotelRouter);
-
+app.use('/api/v1/jams', jamRouter);
 
 module.exports = app;
