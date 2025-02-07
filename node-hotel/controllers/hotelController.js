@@ -1,7 +1,9 @@
+
 const Hotel = require('./../models/hotelModel')
+const APIFeatures = require('./../utilities/apiTools')
 
 
-//Middlewars
+//Middleware
 
 
 
@@ -10,7 +12,13 @@ const Hotel = require('./../models/hotelModel')
 
 exports.getAllHotels = async (req, res) => {
     try{
-        const hotels = await Hotel.find();
+        const hotelsData = new APIFeatures(Hotel.find(), req.query)
+        .filter()
+        .sort()
+        .limitFields()
+        .paginate()
+
+        const hotels = await hotelsData.query;
         res.status(200).json({
             results: hotels.length,
             data: {
