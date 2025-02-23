@@ -1,0 +1,57 @@
+
+  .ReservationPage {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .form {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  
+  .form label {
+    font-weight: bold;
+    margin-bottom: 4px;
+  }
+  
+  .input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .submit,
+  .button {
+    padding: 12px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+  }
+  
+  .submit {
+    background-color: #007BFF;
+    color: white;
+  }
+  
+  .submit:hover {
+    background-color: #0056b3;
+  }
+  
+  .button {
+    background-color: #ccc;
+    color: black;
+  }
+  
+  .button:hover {
+    background-color: #999;
+  }

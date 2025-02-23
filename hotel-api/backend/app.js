@@ -9,7 +9,7 @@ const roomRouter = require('./routes/roomRoutes');
 const reservationRouter = require('./routes/reservationRoutes');
 
 const app = express();
-const PORT = process.env.PORT || 7777;
+const PORT = process.env.PORT || 5001;
 
 
 app.use(morgan('dev'));

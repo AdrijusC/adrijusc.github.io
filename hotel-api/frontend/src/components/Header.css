@@ -1,0 +1,88 @@
+.hotel-app-div{
+    display: flex;
+    background-color: gray;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.web-dev-div{
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+}
+.web-dev-div:hover{
+    color: royalblue;
+}
+.reservations{
+    text-decoration: none;
+    padding: 10px;
+    color: black;
+}
+.reservation-list-button{
+    text-decoration: none;
+    padding: 8px 40px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+.hotel-app-div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px;
+  background-color: gray;
+  color: white;
+}
+
+.left-side h2 {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.web-dev-div {
+  text-decoration: none;
+  color: white;
+  font-size: 1.2rem;
+  font-weight: bold;
+  text-align: center;
+  flex: 1;
+}
+
+.right-side {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+
+.reservations,
+.reservation-list-button {
+  text-decoration: none;
+  color: white;
+  font-size: 1rem;
+}
+
+.reservation-list-button {
+  background-color: white;
+  color: black;
+  padding: 8px 16px;
+  border-radius: 5px;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+}
+
+@media (max-width: 768px) {
+  .hotel-app-div {
+    flex-direction: column;
+    text-align: center;
+    gap: 10px;
+  }
+
+  .right-side {
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .web-dev-div {
+    order: -1;
+  }
+}

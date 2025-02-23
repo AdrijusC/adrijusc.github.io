@@ -1,0 +1,23 @@
+.main-div{
+    display: block;
+}
+.main-header{
+    text-align: center;
+}
+.search-div{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-size: 10px;
+}
+.room-div{
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+    
+}
+@media (max-width: 1024px) {
+    .room-div{
+        display: block;
+    }
+  }

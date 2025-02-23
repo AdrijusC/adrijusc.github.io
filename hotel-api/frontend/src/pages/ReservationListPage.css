@@ -1,0 +1,41 @@
+.reservation-list-container {
+    max-width: 500px;
+    margin: auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .form-stacked {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  
+  .input {
+    width: 95%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .submit-button, .cancel-button {
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+  }
+  
+  .submit-button {
+    background-color: #007BFF;
+    color: white;
+  }
+  
+  .cancel-button {
+    background-color: red;
+    color: white;
+  }
+  

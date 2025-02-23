@@ -1,0 +1,60 @@
+.room{
+    text-align: center;
+    width: 200px;
+    background-color: gray;
+    margin:auto;
+    border-radius: 10px;
+    justify-content: center;
+    height: 300px;
+    width: 500px;
+
+}
+.capacity{
+    display: flex;
+    background-color: white;
+    width: 80%;
+    height: 50px;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    font-size: 40px;
+}
+.wifi{
+    display: flex;
+    background-color: white;
+    width: 80%;
+    height: 50px;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    border-radius: 10px;
+    font-size: 40px;
+}
+.parking{
+    display: flex;
+    background-color: white;
+    width: 80%;
+    height: 50px;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    border-radius: 10px;
+    font-size: 40px;
+}
+.reserve-button{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 80%;
+    padding: 10px;
+    font-size: 25px;
+    background-color: rgb(230, 197, 197);
+    border-radius: 10px;
+    border: none;
+}
+.reserve-button:hover{
+    color: white;
+    background-color: rgb(77, 77, 77);
+}
