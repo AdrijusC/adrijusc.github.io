@@ -1,17 +1,17 @@
 
-def pasukt_lentele(lentele):
-    pasukt = [[0] * len(lentele) for _ in range(len(lentele))]
-    for i in range(len(lentele)):
-        for j in range(len(lentele)):
-            pasukt[j][len(lentele) - 1 - i] = lentele[i][j]
+def pasukt_sarasa(sarasas):
+    pasukt = [[0] * len(sarasas) for _ in range(len(sarasas))]
+    for i in range(len(sarasas)):
+        for j in range(len(sarasas)):
+            pasukt[j][len(sarasas) - 1 - i] = sarasas[i][j]
     return pasukt
 
-lentele = [
+sarasas = [
     [1, 2, 3],
     [4, 5, 6],
     [7, 8, 9]
 ]
 
-pasukt_lentele = pasukt_lentele(lentele)
-for row in pasukt_lentele:
+pasukt_sarasa = pasukt_sarasa(sarasas)
+for row in pasukt_sarasa:
     print(row)
